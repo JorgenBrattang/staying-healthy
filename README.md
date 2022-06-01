@@ -2,15 +2,39 @@
 
 ## Table of contents
 
-## Main Language Used
-HTML5<br>
-CSS3
+1. Features
+2. Testing
+3. Validator Testing
+4. Unfixed Bugs
+5. Deployment
+6. Credits
+    - Content
+    - Media
+7. Main Language Used
 
-## Credits
+## Features
+
+## Testing
+
+## Validator Testing
+
+## Unfixed bugs
+
+## Deployment
+
+# Credits
 
 The main content was used by a Hardvard study about the importance of stretching.
-https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching
 
-1. https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching
-2. **Sample text** This will be removed, just to show me how to do the first part.
-3. **Sample text** This will be removed, just to show me how to do the first part.
+## Content
+- https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching
+    - **Sample text** This will be removed, just to show me how to do the first part.
+        - **Sample text** This will be removed, just to show me how to do the first part.
+        
+## Media
+
+## Main Language Used
+
+- HTML5
+- CSS3
+
