@@ -1,5 +1,14 @@
 # Staying Healthy
 
+Staying Healthy website is for people's awareness of using stretching and the basic knowledge of anatomy, to get a better understanding about the human body understand the importance of our movement.
+
+Users will find the basic knowledge to get them started on the journey of better understanding: 
+- Through a study from Harvard
+- Basic neck stretches
+- Anatomy Core muscle groups
+
+The site is aimed at people who want to feel better and staying healthy.
+
 ## Table of contents
 
 1. Features
@@ -13,6 +22,8 @@
 7. Main Language Used
 
 ## Features
+
+
 
 ## Testing
 
