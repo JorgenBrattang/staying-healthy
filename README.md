@@ -76,6 +76,9 @@ Stylish Logo
 
 - Form sektion
 
+## Skeleton / Wireframe
+![Wireframe from balsamiq](https://share.balsamiq.com/c/dRVJj4y1GDyuGgc72BZ1oU.png)
+
 ## <u>Testing
 
 ## Validator Testing
@@ -90,8 +93,7 @@ The main content was used by a Hardvard study about the importance of stretching
 
 ## Content
 - https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching
-    - **Sample text** This will be removed, just to show me how to do the first part.
-        - **Sample text** This will be removed, just to show me how to do the first part.
+- https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true
         
 ## Media
 
