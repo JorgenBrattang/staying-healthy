@@ -22,64 +22,74 @@ The site is aimed at people who want to feel better and staying healthy.
     - Media
 7. Main Language Used
 
-# Features
-All the pages features a Logo, header with navigation and a footer.
+# UX
 
-Stylish Logo
+### Strategy
 
-- Header
-    - Navigation bar that features easy to read content on where to find the different parts of the website.
+```
+<u>This text will be removed, its just a guideline!</u>
+What are you aiming to achieve in the first place, and for whom?
+```
 
-- Footer
+### Scope
 
-### <u>Main Page</u>
+```
+<u>This text will be removed, its just a guideline!</u>
+What features (based on information from the Strategy) do you want to include in your design? What's on the table and what's not. (at least for now)?
+```
 
-- Content sektion
+### Structure
 
-### <u>Stretches</u>
+```
+<u>This text will be removed, its just a guideline!</u>
+How is the information structured, and is it logically grouped?
+```
 
-- Content sektion
+### Skeleton
 
-### <u>Anatomy</u>
-
-- Content sektion
-
-### <u>Contact / Newsletter</u>
-
-- Form sektion
-
-
-## <u>Existing Features</u>
-
-All the pages features a Logo, header with navigation and a footer.
-
-Stylish Logo
-
-- Header
-    - Navigation bar that features easy to read content on where to find the different parts of the website.
-
-- Footer
-
-### <u>Main Page</u>
-
-- Content sektion
-
-### <u>Stretches</u>
-
-- Content sektion
-
-### <u>Anatomy</u>
-
-- Content sektion
-
-### <u>Contact / Newsletter</u>
-
-- Form sektion
-
-## Skeleton / Wireframe
 ![Wireframe from balsamiq](https://share.balsamiq.com/c/dRVJj4y1GDyuGgc72BZ1oU.png)
 
-## <u>Testing
+```
+<u>This text will be removed, its just a guideline!</u>
+How the information should be implemented, and how will the user navigate throught the information/features?
+```
+
+### Surface
+
+```
+<u>This text will be removed, its just a guideline!</u>
+What will the product look like, colors, typegraphy, images, design elements etc?
+```
+
+## <u>Features</u>
+
+All the pages features a Logo, header with navigation and a footer.
+
+Stylish Logo
+
+- Header
+    - Navigation bar that features easy to read content on where to find the different parts of the website.
+
+- Footer
+
+### <u>Main Page</u>
+
+- Content sektion
+
+### <u>Stretches</u>
+
+- Content sektion
+
+### <u>Anatomy</u>
+
+- Content sektion
+
+### <u>Contact / Newsletter</u>
+
+- Form sektion
+
+
+## <u>Testing</u>
 
 ## Validator Testing
 
