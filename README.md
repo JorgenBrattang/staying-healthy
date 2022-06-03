@@ -26,12 +26,12 @@ The site is aimed at people who want to feel better and staying healthy.
 
 ### Strategy
 
-The Strategy for this site is to get people to understand the basic knowledge of anatomy and about the importance of stretching. 
+The Strategy for this site is to get people the basic knowledge of anatomy and about the importance of stretching. 
 
 The target groups are:
 - All Ages
 - Users who want to know how to feel better and staying healthy
-- Who want to know more about their bodies
+- Who want to get basic knowledge about core muscle groups (*anatomy*)
 
 ```
 <u>This text will be removed, its just a guideline!</u>
@@ -39,7 +39,7 @@ What are you aiming to achieve in the first place, and for whom?
 ```
 
 ### Scope
-
+The scope plane is that you will
 
 ```
 <u>This text will be removed, its just a guideline!</u>
