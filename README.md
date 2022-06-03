@@ -26,12 +26,20 @@ The site is aimed at people who want to feel better and staying healthy.
 
 ### Strategy
 
+The Strategy for this site is to get people to understand the basic knowledge of anatomy and about the importance of stretching. 
+
+The target groups are:
+- All Ages
+- Users who want to know how to feel better and staying healthy
+- Who want to know more about their bodies
+
 ```
 <u>This text will be removed, its just a guideline!</u>
 What are you aiming to achieve in the first place, and for whom?
 ```
 
 ### Scope
+
 
 ```
 <u>This text will be removed, its just a guideline!</u>
@@ -40,6 +48,13 @@ What features (based on information from the Strategy) do you want to include in
 
 ### Structure
 
+<details><summary>Structure made with Balsamiq</summary>
+
+![Wireframe from balsamiq](https://share.balsamiq.com/c/aobswpwQNFd1HMFxSA1mT1.png)
+
+</details>
+
+
 ```
 <u>This text will be removed, its just a guideline!</u>
 How is the information structured, and is it logically grouped?
@@ -47,7 +62,11 @@ How is the information structured, and is it logically grouped?
 
 ### Skeleton
 
-![Wireframe from balsamiq](https://share.balsamiq.com/c/dRVJj4y1GDyuGgc72BZ1oU.png)
+<details><summary>Wireframe made with Balsamiq</summary>
+
+![Wireframe from balsamiq](https://share.balsamiq.com/c/spTyxTGDQ14PXvHVFTVPQz.png)
+
+</details>
 
 ```
 <u>This text will be removed, its just a guideline!</u>
