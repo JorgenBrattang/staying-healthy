@@ -119,12 +119,21 @@ Stylish Logo
 # Credits
 
 The main content was used by a Hardvard study about the importance of stretching.
+Home pages images came from unsplash
 
 ## Content
 - https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching
 - https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true
         
 ## Media
+
+Home Page:
+
+- [dex-ezekiel](https://unsplash.com/photos/We6cFKHo8sQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+- [Anastasia Hisel](https://unsplash.com/photos/tpivPdQgC20?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+- [LUNA ACTIVE FITNESS](https://unsplash.com/photos/O3AA1XfKofM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+- [Kari Shea](https://unsplash.com/photos/O3AA1XfKofM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+- [Julia Rekamie](https://unsplash.com/photos/2aHSA17X17c?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 ## Main Language Used
 
