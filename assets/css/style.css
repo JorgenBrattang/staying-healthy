@@ -17,7 +17,7 @@ header {
 
 .logo {
     text-align: center;
-    font-size: 400%;
+    font-size: 800%;
 }
 
 .logo h1 {
@@ -30,13 +30,11 @@ header {
 
 
 .navigation {
-    background-color: blue;
     width: 100%;
     height: 75px;
 }
 
 .content {
-    background-color: green;
     width: 100%;
     height: 400px;
 }
