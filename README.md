@@ -61,6 +61,7 @@ How is the information structured, and is it logically grouped?
 ```
 
 ### Skeleton
+The skeleton sketches was made using [Balsamiq](https://www.balsamiq.com/)
 
 <details><summary>Wireframe made with Balsamiq</summary>
 
@@ -74,6 +75,13 @@ How the information should be implemented, and how will the user navigate throug
 ```
 
 ### Surface
+The surface sketches was made using [Figma](https://www.figma.com/)
+
+<details><summary>Home Page made with Figma</summary>
+
+![Surface made using Figma](../staying-healthy/assets/images/readme-files/home-page.png)
+
+</details>
 
 ```
 <u>This text will be removed, its just a guideline!</u>
