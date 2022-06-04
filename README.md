@@ -84,21 +84,21 @@ Typography:
 Color scheme:
 
 **#DC5454** <br>
-![#DC5454](../staying-healthy/assets/images/readme-files/dc5454.png)
+![#DC5454](assets/images/readme-files/dc5454.png)
 
 **#4A4A4A** <br>
-![#4A4A4A](../staying-healthy/assets/images/readme-files/4a4a4a.png)
+![#4A4A4A](assets/images/readme-files/4a4a4a.png)
 
 
 <details><summary>Home Page made with Figma</summary>
 
-![home-page](../staying-healthy/assets/images/readme-files/home-page.png)
+![home-page](assets/images/readme-files/home-page.png)
 
 </details>
 
 <details><summary>Stretch Page made with Figma</summary>
 
-![stretch-page](../staying-healthy/assets/images/readme-files/stretch-page.png)
+![stretch-page](assets/images/readme-files/stretch-page.png)
 
 </details>
 
