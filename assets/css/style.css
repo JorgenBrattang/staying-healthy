@@ -42,8 +42,11 @@ header {
 }
 
 footer {
-    background-color: brown;
     width: 100%;
     height: 250px;
+    font-size: 400%;
+    bottom: 0;
+    position: absolute;
+    text-align: center;
 }
 
