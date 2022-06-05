@@ -149,8 +149,9 @@ The main content was used by a Hardvard study about the importance of stretching
 Home pages images came from unsplash
 
 ## Content
-- https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching
-- https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true
+
+- [Harvard Medical School](https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching)
+- [Veritas Health](https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true)
         
 ## Media
 
@@ -161,6 +162,14 @@ Home Page:
 - [LUNA ACTIVE FITNESS](https://unsplash.com/photos/O3AA1XfKofM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 - [Kari Shea](https://unsplash.com/photos/O3AA1XfKofM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 - [Julia Rekamie](https://unsplash.com/photos/2aHSA17X17c?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+
+Stretches:
+
+- [Julia Rekamie](https://unsplash.com/photos/2aHSA17X17c?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+
+Anatomy:
+
+- [Veritas Health](https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true)
 
 ## Main Language Used
 
