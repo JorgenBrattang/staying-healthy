@@ -63,7 +63,7 @@ How is the information structured, and is it logically grouped?
 ### Skeleton
 The skeleton sketches was made using [Balsamiq](https://www.balsamiq.com/)
 
-<details><summary>Wireframe made with Balsamiq</summary>
+<details><summary>Wireframe / Skeleton</summary>
 
 ![Wireframe from balsamiq](https://share.balsamiq.com/c/spTyxTGDQ14PXvHVFTVPQz.png)
 
@@ -90,15 +90,21 @@ Color scheme:
 ![#4A4A4A](assets/images/readme-files/4a4a4a.png)
 
 
-<details><summary>Home Page made with Figma</summary>
+<details><summary>Home Page</summary>
 
 ![home-page](assets/images/readme-files/home-page.png)
 
 </details>
 
-<details><summary>Stretch Page made with Figma</summary>
+<details><summary>Stretch Page</summary>
 
 ![stretch-page](assets/images/readme-files/stretch-page.png)
+
+</details>
+
+<details><summary>Anatomy Page</summary>
+
+![stretch-page](assets/images/readme-files/anatomy-page.png)
 
 </details>
 
