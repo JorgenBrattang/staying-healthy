@@ -5,7 +5,7 @@ Staying Healthy website is for people's awareness of using stretching and the ba
 Users will find the basic knowledge to get them started on the journey of better understanding: 
 - **Through a study from Harvard**
 - **Basic neck stretches**
-- **Anatomy Core muscle groups**
+- **Anatomy major muscle groups**
 
 The site is aimed at people who want to feel better and staying healthy.
 
@@ -31,7 +31,7 @@ The Strategy for this site is to get people the basic knowledge of anatomy and a
 The target groups are:
 - All Ages
 - Users who want to know how to feel better and staying healthy
-- Who want to get basic knowledge about core muscle groups (*anatomy*)
+- Who want to get basic knowledge about major muscle groups
 
 ```
 <u>This text will be removed, its just a guideline!</u>
@@ -152,6 +152,8 @@ Home pages images came from unsplash
 
 - [Harvard Medical School](https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching)
 - [Veritas Health](https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true)
+- [Elevate](https://www.elevatenutrition.com/13-major-muscle-groups-body-functions/)
+
         
 ## Media
 
@@ -165,11 +167,13 @@ Home Page:
 
 Stretches:
 
-- [Julia Rekamie](https://unsplash.com/photos/2aHSA17X17c?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+- [Veritas Health](https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true)
 
 Anatomy:
 
-- [Veritas Health](https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true)
+- [M L](https://www.blendspace.com/lessons/jTk3SQRZL8WOsA/muscular-system)
+
+
 
 ## Main Language Used
 
