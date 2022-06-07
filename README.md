@@ -92,13 +92,19 @@ Color scheme:
 
 <details><summary>Stretch Page</summary>
 
-![stretch-page](assets/images/readme-files/stretch-page.png)
+![stretch-page](assets/images/readme-files/stretches-page.png)
 
 </details>
 
 <details><summary>Anatomy Page</summary>
 
 ![stretch-page](assets/images/readme-files/anatomy-page.png)
+
+</details>
+
+<details><summary>Contact Page</summary>
+
+![stretch-page](assets/images/readme-files/contact-page.png)
 
 </details>
 
