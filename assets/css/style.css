@@ -48,3 +48,26 @@ header div {
 
 /* --- Navigation --- */
 
+nav {
+    width: 100%;
+
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+
+}
+
+nav a{
+    color: #4a4a4a;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #DC5454;
+}
+
+nav a:active {
+    color: #DC5454;
+}
