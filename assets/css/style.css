@@ -11,6 +11,8 @@ p {
     font-family: Poppins, sans-serif;
 }
 
+/* --- Header --- */
+
 header {
     width: 100%;
     margin: 0 auto;
@@ -21,6 +23,8 @@ header div {
     text-align: center;
     display: inline;
 }
+
+/* --- Logo --- */
 
 .logo {
     font-size: 3.5em;
@@ -41,3 +45,6 @@ header div {
     margin-top: -38px;
     margin-left: 15px;
 }
+
+/* --- Navigation --- */
+
