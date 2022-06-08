@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins:wght@500&display=swap');
 
-body {
-    font-family: Oswald, sans-serif;
+* {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
     color: #4a4a4a;
@@ -9,21 +9,20 @@ body {
 
 p {
     font-family: Poppins, sans-serif;
-    margin-top: -1.7em;
 }
 
 h3 {
     font-size: 1.5em;
+    font-family: Oswald, sans-serif;
 }
 
 .space {
-    padding-top: 1.5em;
+    padding-top: 2%;
 }
 
 /* --- Header --- */
 
 header {
-    width: 100%;
     margin: 0 auto;
     text-align: center;
 }
@@ -36,7 +35,7 @@ header div {
 /* --- Logo --- */
 
 .logo {
-    font-size: 3.5em;
+    font-size: 50px;
     display: inline-block;
 }
 
@@ -46,27 +45,25 @@ header div {
 }
 
 .logo-text-staying-healthy {
-    font-size: 1.8em;
+    font-size: 24px;
     color: #DC5454;
 }
 
 .logo-text-undertext {
-    margin-top: -38px;
-    margin-left: 15px;
+    margin-left: 5%;
 }
 
 /* --- Navigation --- */
 
 nav {
     width: 100%;
-    margin-top: -1em;
 }
 
 nav li {
     list-style: none;
     display: inline-block;
     padding-right: 2%;
-    font-size: 1.5em;
+    
 }
 
 nav a{
@@ -81,18 +78,19 @@ nav a{
 /* --- Content --- */
 
 section {
-    width: 100%;
+    margin: 0 auto;
+    width: 50%;
     position: relative;
-    margin-top: -1em;
 }
 
 section div {
-    width: 50em;
+    width: 100%;
     margin: 0 auto;
 }
 
 section li {
     font-family: Poppins, sans-serif;
+    margin-left: 5%;
 }
 
 section span {
@@ -101,8 +99,8 @@ section span {
 
 .circle-image {
     float: left;
-    width: 10em;
-    height: 10em;
+    width: 125px;
+    height: 125px;
     border-radius: 5em;
     background-color: red;
 }
@@ -110,15 +108,15 @@ section span {
 .circle-text {
     float: left;
     height: 150px;  
-    width: 29em;
-    margin-left: 1em;
+    width: 60%;
+    margin-left: 2%;
 }
 
 .clear {
     clear: both;
-    padding-top: 1.5em;
+    padding-top: 5%;
 }
 
 .circle-push-right {
-    margin-left: 10em;
+    margin-left: 10%;
 }
