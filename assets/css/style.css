@@ -9,6 +9,15 @@ body {
 
 p {
     font-family: Poppins, sans-serif;
+    margin-top: -1.7em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+.space {
+    padding-top: 1.5em;
 }
 
 /* --- Header --- */
@@ -82,14 +91,24 @@ section div {
     margin: 0 auto;
 }
 
-section h3 {
-    font-size: 1.5em;
-}
-
-section p {
-    margin-top: -1em;
-}
-
 section li {
     font-family: Poppins, sans-serif;
+}
+
+section span {
+    color: #DC5454;
+}
+
+.circle-image {
+    float: left;
+    width: 10em;
+    height: 10em;
+    border-radius: 5em;
+    background-color: red;
+}
+
+.circle-text {
+    float: right;
+    height: 150px;  
+    width: 29em;
 }
