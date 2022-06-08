@@ -4,7 +4,10 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    color: #4a4a4a;
+}
+
+body {
+    color:#4a4a4a;
 }
 
 p {
@@ -12,7 +15,7 @@ p {
 }
 
 h3 {
-    font-size: 1.5em;
+    font-size: 20px;
     font-family: Oswald, sans-serif;
 }
 
@@ -37,33 +40,42 @@ header div {
 .logo {
     font-size: 50px;
     display: inline-block;
+
 }
 
 .logo-text {
     display: inline-block;
     text-align: left;
+    
+    
 }
 
 .logo-text-staying-healthy {
     font-size: 24px;
     color: #DC5454;
+    margin-bottom: -5px;
 }
 
 .logo-text-undertext {
     margin-left: 5%;
+    font-size: 14px;
+    width: 100%;
+
 }
 
 /* --- Navigation --- */
 
 nav {
     width: 100%;
+    font-family: Oswald, sans-serif;
 }
 
 nav li {
     list-style: none;
     display: inline-block;
     padding-right: 2%;
-    
+    font-size: 20px;
+    font-weight: 400;
 }
 
 nav a{
