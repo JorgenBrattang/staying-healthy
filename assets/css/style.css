@@ -25,6 +25,8 @@ h3 {
     padding-top: 2%;
 }
 
+/* --- Links --- */
+
 a {
     text-decoration: none;
     font-family: Poppins, sans-serif;
@@ -99,7 +101,7 @@ nav a{
 
 section {
     margin: 0 auto;
-    width: 50%;
+    max-width: 800px;
     position: relative;
 }
 
@@ -122,9 +124,12 @@ section span {
     float: left;
     width: 150px;
     height: 150px;
-    border-radius: 5em;
-    border: 12px solid rgba(74, 74, 74, .5);
+    outline: 12px solid rgba(74, 74, 74, .5);
+    outline-offset: -12px;
+    border-radius: 50%;
+    object-fit: cover;
 }
+
 
 .circle-text {
     float: left;
@@ -163,9 +168,9 @@ footer {
     margin-top: 50px;
     text-align: center;
     position: static;
-    height: 250px;
     bottom: 0;
     border-radius: 50px 50px 0 0;
+    height: 30vh;
 }
 
 footer h4 {
@@ -186,8 +191,7 @@ footer li {
     width: 33%;
     float: left;
     text-align: left;
-    padding-left: 5%;
-    padding-top: 5%;
+    padding: 5% 5% 0 5%;
 }
 
 .middle {
@@ -201,8 +205,7 @@ footer li {
     width: 33%;
     float: left;
     text-align: right;
-    padding-top: 5%;
-    padding-right: 4%;
+    padding: 5% 4% 0 5%;
 }
 
 .right li {
