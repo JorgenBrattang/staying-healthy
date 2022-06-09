@@ -42,6 +42,7 @@ a:hover {
 header {
     margin: 0 auto;
     text-align: center;
+    padding-top: 2%;
 }
 
 header div {
@@ -54,12 +55,12 @@ header div {
 .logo {
     font-size: 50px;
     display: inline-block;
-
 }
 
 .logo-text {
     display: inline-block;
     text-align: left;
+    
 }
 
 .logo-text-staying-healthy {
@@ -72,7 +73,6 @@ header div {
     margin-left: 5%;
     font-size: 14px;
     width: 100%;
-
 }
 
 /* --- Navigation --- */
@@ -80,6 +80,7 @@ header div {
 nav {
     width: 100%;
     font-family: Oswald, sans-serif;
+    padding-top: 1%;
 }
 
 nav li {
@@ -114,10 +115,21 @@ section li {
     font-family: Poppins, sans-serif;
     margin-left: 5%;
     font-size: 13px;
+    text-align: left;
 }
 
 section span {
     color: #DC5454;
+}
+
+.top-page-text {
+    width: 70%;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.top-page-text p {
+    text-align: left;
 }
 
 .circle-image {
@@ -140,12 +152,19 @@ section span {
 
 .square-image {
     float: left;
-    width: 200px;
+    width: 250px;
     height: 150px;
     border-radius: 40px;
     outline: 12px solid rgba(74, 74, 74, .5);
     outline-offset: -12px;
     object-fit: cover;
+}
+
+.square-text {
+    float: left;
+    width: 50%;
+    margin-left: 2%;
+
 }
 
 .clear {
