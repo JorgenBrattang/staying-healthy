@@ -21,6 +21,10 @@ h3 {
     letter-spacing: 1px;
 }
 
+important {
+    font-style: italic;
+}
+
 .space {
     padding-top: 2%;
 }
@@ -164,8 +168,36 @@ section span {
     float: left;
     width: 50%;
     margin-left: 2%;
-
 }
+
+.contact-main-text {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.contact-left {
+    width: 50%;
+    float: left;
+    height: 40vh;
+}
+
+.contact-left h3 {
+    text-align: left;
+}
+
+.contact-left li {
+    list-style: none;
+    margin-left: 0;
+}
+
+.contact-right {
+    width: 50%;
+    background-color: blue;
+    float: left;
+    height: 40vh;
+}
+
+.contact
 
 video {
     width: 100%;
