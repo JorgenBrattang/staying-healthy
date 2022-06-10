@@ -122,13 +122,13 @@ section span {
     color: #DC5454;
 }
 
-.top-page-text {
-    width: 70%;
+.main-text {
+    width: 90%;
     text-align: center;
     padding-top: 2%;
 }
 
-.top-page-text p {
+.main-text p {
     text-align: left;
 }
 

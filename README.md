@@ -180,6 +180,10 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 ```
 
 # Credits
+From my mentor Oluwaseun Owonikoko advice and guidance, she showed me another student's README.md for this project that I took inspiration from
+and made my own version from it:
+
+- [Irishbecky91](https://github.com/Irishbecky91/survival-guild)
 
 The main content came from these different sites:
 
@@ -208,14 +212,7 @@ Stretches:
 
 Anatomy:
 
-- [M L](https://www.blendspace.com/lessons/jTk3SQRZL8WOsA/muscular-system)
-
-## Extra Credit
-
-From my mentor Oluwaseun Owonikoko advice and guidance, she showed me another student's README.md for this project that I took inspiration from
-and made my own version from it:
-
-- [Irishbecky91](https://github.com/Irishbecky91/survival-guild)
+- [MooMooMath and Science](https://www.youtube.com/watch?v=z7psWfRLXFY)
 
 ## Main Language Used
 
