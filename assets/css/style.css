@@ -19,6 +19,7 @@ h3 {
     font-size: 20px;
     font-family: Oswald, sans-serif;
     letter-spacing: 1px;
+    padding-bottom: 1%;
 }
 
 /* Added style elements */
@@ -477,14 +478,58 @@ footer li {
         padding-left: 5%;
         padding-right: 5%;
     }
+
+    .contact-right {
+        width: 100%;
+    }
+
+    .contact-left {
+        width: 100%;
+        float: left;
+        height: 55vh;
+        padding-right: 1.5%;
+    }
+    
+    .contact-main-text {
+        width: 100%;
+    }
     
 }
 
 @media screen and (max-width: 525px) {
 
-* {
-    background-color: red;
-}
+    .left {
+        width: 100%;
+        float: left;
+        text-align: center;
+        padding: 5% 5% 0 5%;
+    }
+    
+    .middle {
+        width: 100%;
+        float: left;
+        text-align: center;
+        padding-top: 2%
+    }
+    
+    .right {
+        width: 100%;
+        float: left;
+        text-align: center;
+        padding: 5% 4% 0 5%;
+    }
+
+    .right li {
+        text-align: center;
+    }
+
+    footer {
+        height: 55vh;
+    }
+
+    footer li {
+        text-align: center;
+    }
 
 }
 
