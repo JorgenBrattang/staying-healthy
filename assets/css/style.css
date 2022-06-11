@@ -157,8 +157,9 @@ section span {
     outline-offset: -12px;
     border-radius: 50%;
     object-fit: cover;
+    animation-name: circle;
+    animation-duration: 1s;
 }
-
 
 .circle-text {
     float: left;
