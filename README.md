@@ -81,7 +81,10 @@ To make the text more easy to read I ended up using [Poppins](https://fonts.goog
 and [Oswald](https://fonts.google.com/specimen/Oswald?thickness=5&preview.text=You%20may%20think%20of%20stretching%20as%20something%20performed%20only%20by%20runners%20or%20gymnasts.%20But%20we%20all%20need%20to%20stretch%20in%20order%20to%20protect%20our%20mobility%20and%20independence.%20%22A%20lot%20of%20people%20don%27t%20understand%20that%20stretching%20has%20to%20happen%20on%20a%20regular%20basis.%20It%20should%20be%20daily,%22%20says%20David%20Nolan,%20a%20physical%20therapist%20at%20Harvard-affiliated%20Massachusetts%20General%20Hospital.&preview.size=17&preview.text_type=custom&query=oswald)
  for header, and Sans-Serif as backup incase the other fonts don't work.
 
-Color scheme:
+<br>
+
+### Color scheme
+Was made to make the text more user friendly.
 
 **#DC5454** <br>
 ![#DC5454](assets/images/readme-files/dc5454.png)
@@ -114,21 +117,13 @@ Color scheme:
 
 </details>
 
-```
-<u>This text will be removed, its just a guideline!</u>
-What will the product look like, colors, typegraphy, images, design elements etc?
-```
-
 ## <u>Features</u>
 
-All the pages features a Logo, header with navigation and a footer.
+All the pages features a stylish logo that shows the sites name "Staying Healthy" and slogan "The importance of stretching".
+    
+- <strong>Navigation bar</strong> that features easy to read and where to find the different parts of the website. This resizes with the website and doesn't change.
 
-Stylish Logo
-
-- Header
-    - Navigation bar that features easy to read content on where to find the different parts of the website.
-
-- Footer
+- <strong>Footer</strong> is 800px wide as the site and will keep it size until the user goes below 525px, then it will make the three text field stack ontop of each other.
 
 ### <u>Main Page</u>
 
