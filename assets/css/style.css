@@ -36,10 +36,6 @@ important {
     padding-top: 2%;
 }
 
-.push-right {
-    margin-left: 10%;
-}
-
 /* --- Links --- */
 
 a {
@@ -159,6 +155,7 @@ section span {
     object-fit: cover;
     animation-name: outline;
     animation-duration: 3s;
+    margin-left: 5%;
 }
 
 .circle-text {
@@ -178,6 +175,12 @@ section span {
     object-fit: cover;
     animation-name: outline;
     animation-duration: 3s;
+    margin-left: 5%;
+    
+}
+
+.push-right {
+    margin-left: 10%;
 }
 
 .square-text {
@@ -320,12 +323,12 @@ video {
 
 @keyframes video {
     from {
-    transform: scaleY(0);
+    transform: scale(0);
     opacity: 0;
     }
 
     to {
-    transform: scaleY(100%);
+    transform: scale(1);
     opacity: 1;
      }
 }
@@ -431,6 +434,59 @@ footer li {
 }
 
 
+/* For screen sizes from 700px and down */
+
+@media screen and (max-width: 700px) {
+    
+    .square-image {
+        float: left;
+        width: 250px;
+        height: 150px;
+        border-radius: 40px;
+        outline: 12px solid rgba(74, 74, 74, .5);
+        outline-offset: -12px;
+        object-fit: cover;
+        animation-name: outline;
+        animation-duration: 3s;
+        margin-left: 5%;
+    }
+    
+    .square-text {
+        float: left;
+        width: 100%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .circle-image {
+        float: left;
+        width: 150px;
+        height: 150px;
+        outline: 12px solid rgba(74, 74, 74, .5);
+        outline-offset: -12px;
+        border-radius: 50%;
+        object-fit: cover;
+        animation-name: outline;
+        animation-duration: 3s;
+        margin-left: 5%;
+    }
+    
+    .circle-text {
+        float: left;
+        width: 100%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    
+}
+
+@media screen and (max-width: 525px) {
+
+* {
+    background-color: red;
+}
+
+}
 
 
 
