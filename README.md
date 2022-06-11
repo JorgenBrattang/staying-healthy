@@ -119,28 +119,59 @@ Was made to make the text more user friendly.
 
 ## <u>Features</u>
 
-All the pages features a stylish logo that shows the sites name "Staying Healthy" and slogan "The importance of stretching".
+All the pages features a stylish logo that shows the sites name <strong>"Staying Healthy"</strong> and slogan <strong>"The importance of stretching"</strong>.
     
-- <strong>Navigation bar</strong> that features easy to read and where to find the different parts of the website. This resizes with the website and doesn't change.
+- <strong>Navigation bar</strong> that features easy to read and where to find the different parts of the website. This resizes with the website and doesn't change in shape.
 
 - <strong>Footer</strong> is 800px wide as the site and will keep it size until the user goes below 525px, then it will make the three text field stack ontop of each other.
 
 ### <u>Main Page</u>
 
-- Placeholder
+- <strong>Main text</strong>, that holds the welcome message and what the site is all about.
+    - Stays the same at all sizes.
+- <strong>Circle images</strong> shows people preforming stretches.
+    - Features an outline fade in effect to the right opacity. 
+        - The placement will change when the screensize is below 700px to be above the text rather next to it.
+- <strong>Circle text</strong> holds parts of the article.
+    - The placement will change when the screensize is below 700px to be below the text rather next to it.
+- <strong>Read more</strong>, holds credit text where the article was taken from.
+    - Stays the same at all sizes.
 
 ### <u>Stretches</u>
 
-- Placeholder
+- <strong>Main text</strong>, that holds the intro text to this page.
+    - Stays the same at all sizes.
+- <strong>Square images</strong> shows images how the stretch is made.
+    - Features an outline fade in to the right opacity. 
+        - The placement will change when the screensize is below 700px to be above the text rather next to it.
+- <strong>Square text</strong> discribes how to preform the stretch.
+    - The placement will change when the screensize is below 700px to be below the text rather next to it.
+- <strong>Read more</strong>, credit text where the article was taken from.
+    - Stays the same at all sizes.
 
 ### <u>Anatomy</u>
 
-- Placeholder
+- <strong>Video</strong> that shows information about the major muscles system. 
+    - Features an fade in effect to the right opacity and a scale from 0 to 1. 
+        - Scales with the site.
+- <strong>Main text</strong> that holds the shorten version of an article.
+    - Stays the same at all sizes.
+- <strong>Read more</strong> credit text where the article was taken from and to read the full version.
+    - Stays the same at all sizes.
 
-### <u>Contact / Newsletter</u>
+### <u>Contact</u>
 
-- Placeholder
-
+- <strong>Main text</strong> that holds the intro text to this page. 
+    - Changes when the screensize is below 700px to fit the entire width of the page.
+- <strong>Contact</strong> holds the information to contact.
+    - Features an unsorted list. 
+        - Changes when the screensize is below 700px to fit the entire width of the page.
+- <strong>Map</strong> that shows where the location with help from google maps.
+    - Features an fade in effect to the right opacity. 
+        - Changes when the screensize is below 700px to fit the entire width of the page.
+- <strong>Contact form</strong> where the user can contact and sign up for a newsletter.
+    - Features a submit and clear form button. 
+        - Changes when the screensize is below 700px to fit the entire width of the page.
 
 ## Testing
 ```
