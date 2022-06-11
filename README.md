@@ -10,11 +10,15 @@ Here will you find the basic knowledge to get started on the journey of better u
 
 The site is aimed at people who want to feel better and staying healthy.
 
+<br>
+
 # Table of contents
 
 1. Placeholder
 2. Placeholder
 3. Placeholder
+
+<br>
 
 # UX
 
@@ -27,6 +31,7 @@ The target groups are:
 - Users who want to know how to feel better and staying healthy
 - Who want to get basic knowledge about major muscle groups
 
+<br>
 
 ### Scope
 The scope plane is that you will easly get ahold of the information that the users need and to get them started on the journey to better understand the human body.
@@ -37,8 +42,11 @@ The features will be a page for:
 - The major muscle groups, through video and an article.
 - Contact page with form and location.
 
+<br>
 
 ### Structure
+The information and features was made into a easy to follow and read structure, with clear directions.
+
 
 <details><summary>Structure made with Balsamiq</summary>
 
@@ -46,14 +54,12 @@ The features will be a page for:
 
 </details>
 
-
-```
-<u>This text will be removed, its just a guideline!</u>
-How is the information structured, and is it logically grouped?
-```
+<br>
 
 ### Skeleton
-The skeleton sketches was made using [Balsamiq](https://www.balsamiq.com/)
+The skeleton wireframe was made to give a clean and easy to use experiance. 
+
+Made with [Balsamiq](https://www.balsamiq.com/)
 
 <details><summary>Wireframe / Skeleton</summary>
 
@@ -61,17 +67,19 @@ The skeleton sketches was made using [Balsamiq](https://www.balsamiq.com/)
 
 </details>
 
-```
-<u>This text will be removed, its just a guideline!</u>
-How the information should be implemented, and how will the user navigate throught the information/features?
-```
+<br>
 
 ### Surface
-The surface sketches was made using [Figma](https://www.figma.com/)
+The design of from the skeleton stayed mostly the same, some changes were made to make it more pleasent to look at and make it more user friendly. With some input from my mentor and family. 
 
-Typography:
-"Poppins" for Text
-"Oswald" for Headers
+The surface was made with [Figma](https://www.figma.com/)
+
+
+### Typography
+To make the text more easy to read I ended up using [Poppins](https://fonts.google.com/specimen/Poppins?thickness=5&preview.text=You%20may%20think%20of%20stretching%20as%20something%20performed%20only%20by%20runners%20or%20gymnasts.%20But%20we%20all%20need%20to%20stretch%20in%20order%20to%20protect%20our%20mobility%20and%20independence.%20%22A%20lot%20of%20people%20don%27t%20understand%20that%20stretching%20has%20to%20happen%20on%20a%20regular%20basis.%20It%20should%20be%20daily,%22%20says%20David%20Nolan,%20a%20physical%20therapist%20at%20Harvard-affiliated%20Massachusetts%20General%20Hospital.&preview.size=17&preview.text_type=custom&query=Poppins)
+ for the paragraphs and 
+and [Oswald](https://fonts.google.com/specimen/Oswald?thickness=5&preview.text=You%20may%20think%20of%20stretching%20as%20something%20performed%20only%20by%20runners%20or%20gymnasts.%20But%20we%20all%20need%20to%20stretch%20in%20order%20to%20protect%20our%20mobility%20and%20independence.%20%22A%20lot%20of%20people%20don%27t%20understand%20that%20stretching%20has%20to%20happen%20on%20a%20regular%20basis.%20It%20should%20be%20daily,%22%20says%20David%20Nolan,%20a%20physical%20therapist%20at%20Harvard-affiliated%20Massachusetts%20General%20Hospital.&preview.size=17&preview.text_type=custom&query=oswald)
+ for header, and Sans-Serif as backup incase the other fonts don't work.
 
 Color scheme:
 
