@@ -157,8 +157,8 @@ section span {
     outline-offset: -12px;
     border-radius: 50%;
     object-fit: cover;
-    animation-name: circle;
-    animation-duration: 1s;
+    animation-name: outline;
+    animation-duration: 3s;
 }
 
 .circle-text {
@@ -176,6 +176,8 @@ section span {
     outline: 12px solid rgba(74, 74, 74, .5);
     outline-offset: -12px;
     object-fit: cover;
+    animation-name: outline;
+    animation-duration: 3s;
 }
 
 .square-text {
@@ -218,6 +220,8 @@ iframe {
     border-radius: 40px;
     outline: 12px solid rgba(74, 74, 74, .5);
     outline-offset: -12px;
+    animation-name: outline, opacity;
+    animation-duration: 3s;
 }
 
 .contact-right {
@@ -311,6 +315,39 @@ video {
     width: 100%;
     border-radius: 25px;
     margin-top: 4%;
+    animation: video 2s;
+}
+
+@keyframes video {
+    from {
+    transform: scaleY(0);
+    opacity: 0;
+    }
+
+    to {
+    transform: scaleY(100%);
+    opacity: 1;
+     }
+}
+
+@keyframes outline {
+    from {
+        outline: 12px solid rgba(74, 74, 74, .0);
+    }
+
+    to {
+        outline: 12px solid rgba(74, 74, 74, .5);
+    }
+}
+
+@keyframes opacity {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
 }
 
 /* Read more content */
