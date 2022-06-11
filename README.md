@@ -27,18 +27,16 @@ The target groups are:
 - Users who want to know how to feel better and staying healthy
 - Who want to get basic knowledge about major muscle groups
 
-```
-<u>This text will be removed, its just a guideline!</u>
-What are you aiming to achieve in the first place, and for whom?
-```
 
 ### Scope
-The scope plane is that you will
+The scope plane is that you will easly get ahold of the information that the users need and to get them started on the journey to better understand the human body.
 
-```
-<u>This text will be removed, its just a guideline!</u>
-What features (based on information from the Strategy) do you want to include in your design? What's on the table and what's not. (at least for now)?
-```
+The features will be a page for:
+- The importance of stretching, through images and article.
+- Easy exercice for neck and shoulder stretches, through images and article.
+- The major muscle groups, through video and an article.
+- Contact page with form and location.
+
 
 ### Structure
 
