@@ -471,6 +471,11 @@ footer li {
 
     .contact-right {
         width: 100%;
+        text-align: center;
+    }
+
+    .contact-right p{
+        text-align: center;
     }
 
     .contact-left {
@@ -478,12 +483,15 @@ footer li {
         float: left;
         height: 55vh;
         padding-right: 1.5%;
+        margin-left: 1.8%;
     }
     
     .contact-main-text {
         width: 100%;
+        padding-left: 25%;
+        padding-right: 25%;
     }
-    
+
 }
 
 @media screen and (max-width: 525px) {
@@ -522,9 +530,6 @@ footer li {
     }
 
 }
-
-
-
 
 /* Credit code (https://google-map-generator.com/) */
 
