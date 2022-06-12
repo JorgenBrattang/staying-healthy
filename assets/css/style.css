@@ -24,10 +24,6 @@ h3 {
 
 /* Added style elements */
 
-important {
-    font-style: italic;
-}
-
 .space {
     padding-top: 2%;
 }
@@ -226,6 +222,8 @@ iframe {
     outline-offset: -12px;
     animation-name: outline, opacity;
     animation-duration: 3s;
+    width: 100%;
+    height: 100%;
 }
 
 .contact-right {
@@ -319,19 +317,7 @@ video {
     width: 100%;
     border-radius: 25px;
     margin-top: 4%;
-    animation: video 2s;
-}
-
-@keyframes video {
-    from {
-    transform: scale(0);
-    opacity: 0;
-    }
-
-    to {
-    transform: scale(1);
-    opacity: 1;
-     }
+    animation: opacity 2s;
 }
 
 @keyframes outline {
@@ -432,6 +418,10 @@ footer li {
 
 .social-icons a:hover {
     color: #DC5454;
+}
+
+.override-color {
+    color: #4a4a4a;
 }
 
 
