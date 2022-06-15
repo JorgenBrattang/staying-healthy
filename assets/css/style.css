@@ -424,6 +424,10 @@ footer li {
     color: #4a4a4a;
 }
 
+footer a:hover {
+    color: #FFF;
+}
+
 
 /* For screen sizes from 700px and down */
 
