@@ -123,31 +123,36 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
     
 - <strong>Navigation bar</strong> that features easy to read and where to find the different parts of the website. This resizes with the website and doesn't change in shape.
 
-- <strong>Footer</strong> is 800px wide as the site and will keep it size until the user goes below 525px, then it will make the three text field stack ontop of each other.
+- <strong>Footer</strong> is 800px wide as the site and will keep it size until the user goes below 525px, it will make the three text field stack ontop of each other.
+
+- <strong>Image / map</strong> feature fade in outline screenshoot:
+<br><br>
+![stretch-page](assets/images/readme-files/image-feature.png)
+<br>
 
 ### <u>Main Page</u>
 
 - <strong>Main text</strong>, that holds the welcome message and what the site is all about.
-    - Stays the same at all sizes.
+    - Stays the same at all screen sizes.
 - <strong>Circle images</strong> shows people preforming stretches.
     - Features an outline fade in effect to the right opacity. 
         - The placement will change when the screensize is below 700px to be above the text rather next to it.
 - <strong>Circle text</strong> holds parts of the article.
     - The placement will change when the screensize is below 700px to be below the text rather next to it.
 - <strong>Read more</strong>, holds credit text where the article was taken from.
-    - Stays the same at all sizes.
+    - Stays the same at all screen sizes.
 
 ### <u>Stretches</u>
 
 - <strong>Main text</strong>, that holds the intro text to this page.
-    - Stays the same at all sizes.
+    - Stays the same at all screen sizes.
 - <strong>Square images</strong> shows images how the stretch is made.
     - Features an outline fade in to the right opacity. 
         - The placement will change when the screensize is below 700px to be above the text rather next to it.
 - <strong>Square text</strong> discribes how to preform the stretch.
     - The placement will change when the screensize is below 700px to be below the text rather next to it.
 - <strong>Read more</strong>, credit text where the article was taken from.
-    - Stays the same at all sizes.
+    - Stays the same at all screen sizes.
 
 ### <u>Anatomy</u>
 
@@ -155,9 +160,9 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
     - Features an fade in effect to the right opacity and a scale from 0 to 1. 
         - Scales with the site.
 - <strong>Main text</strong> that holds the shorten version of an article.
-    - Stays the same at all sizes.
+    - Stays the same at all screen sizes.
 - <strong>Read more</strong> credit text where the article was taken from and to read the full version.
-    - Stays the same at all sizes.
+    - Stays the same at all screen sizes.
 
 ### <u>Contact</u>
 
