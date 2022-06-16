@@ -451,8 +451,6 @@ footer a:hover {
 /* For screen sizes from 725px and down */
 
 @media screen and (max-width: 725px) {
-    
-    
 
     .contact-right {
         width: 100%;
@@ -511,7 +509,7 @@ footer a:hover {
         object-fit: cover;
         animation-name: outline;
         animation-duration: 3s;
-        margin-left: 5%;
+        margin-top: 5%;
     }
     
     .circle-text {
