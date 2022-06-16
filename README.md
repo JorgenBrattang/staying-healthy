@@ -171,6 +171,9 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
         - Changes when the screensize is below 700px to fit the entire width of the page.
 
 ## Testing
+
+Found a bug when resizing the size of the screens height. It made the footer float far above the bottom of the page.
+- Fixed by changing the footer from the section to its own place within the HTML and adding a display flex and column to the body.
 ```
 <u>This text will be removed, its just a guideline!</u>
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
