@@ -562,6 +562,28 @@ footer a:hover {
 
 }
 
+.back-to-top {
+    background-color: #DC5454;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    position: fixed;
+    right: 5%;
+    bottom: 5%;
+    border-radius: 50%;
+    font-size: 30px;
+    cursor: pointer;
+    padding-top: 2px;
+}
+
+.back-to-top i {
+    color: white;
+}
+
+.back-to-top:hover {
+    background-color: #4a4a4a;
+}
+
 /* Credit code (https://google-map-generator.com/) */
 
 .mapouter {
