@@ -110,7 +110,7 @@ nav a{
 
 section {
     margin: 0 auto;
-    max-width: 800px;
+    width: 65%;
     position: relative;
 }
 
@@ -155,6 +155,7 @@ section span {
     margin-left: 5%;
 }
 
+
 .circle-text {
     float: left;
     width: 60%;
@@ -173,7 +174,11 @@ section span {
     animation-name: outline;
     animation-duration: 3s;
     margin-left: 5%;
-    
+}
+
+.circle-image:hover, .square-image:hover {
+    outline: 12px solid rgba(74, 74, 74, .75);
+    border: 3px dashed rgba(74, 74, 74, 1);
 }
 
 .push-right {
@@ -189,8 +194,9 @@ section span {
 /* Contact content */
 
 .contact-main-text {
-    width: 40%;
+    width: 80%;
     margin: 0 auto;
+    padding-left: 10%;
 }
 
 .contact-left {
@@ -365,7 +371,7 @@ footer {
     position: static;
     bottom: 0;
     border-radius: 50px 50px 0 0;
-    height: 30vh;
+    height: 23vh;
 }
 
 footer h4 {
@@ -428,11 +434,53 @@ footer a:hover {
     color: #FFF;
 }
 
+/* For screen sizes from 1200px and down */
 
-/* For screen sizes from 700px and down */
+@media screen and (max-width: 1200px) {
+    section {
+        width: 80%;
+    }
+}
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1000px) {
+    section {
+        width: 95%;
+    }
+}
+
+/* For screen sizes from 725px and down */
+
+@media screen and (max-width: 725px) {
     
+    
+
+    .contact-right {
+        width: 100%;
+        text-align: center;
+    }
+
+    .contact-right p{
+        text-align: center;
+    }
+
+    .contact-left {
+        width: 100%;
+        float: left;
+        height: 55vh;
+        padding-right: 1.5%;
+        margin-left: 1.8%;
+    }
+    
+    .contact-main-text {
+        width: 100%;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+}
+
+@media screen and (max-width: 675px) {
+
     .square-image {
         float: left;
         width: 250px;
@@ -473,32 +521,11 @@ footer a:hover {
         padding-right: 5%;
     }
 
-    .contact-right {
-        width: 100%;
-        text-align: center;
-    }
-
-    .contact-right p{
-        text-align: center;
-    }
-
-    .contact-left {
-        width: 100%;
-        float: left;
-        height: 55vh;
-        padding-right: 1.5%;
-        margin-left: 1.8%;
-    }
-    
     .contact-main-text {
         width: 100%;
-        padding-left: 25%;
-        padding-right: 25%;
+        padding-left: 2%;
+        padding-right: 2%;
     }
-
-}
-
-@media screen and (max-width: 525px) {
 
     .left {
         width: 100%;
@@ -526,7 +553,7 @@ footer a:hover {
     }
 
     footer {
-        height: 55vh;
+        height: 45vh;
     }
 
     footer li {
