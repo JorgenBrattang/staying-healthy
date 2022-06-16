@@ -12,14 +12,6 @@ The site is aimed at people who want to feel better and staying healthy.
 
 <br>
 
-# Table of contents
-
-1. Placeholder
-2. Placeholder
-3. Placeholder
-
-<br>
-
 # UX
 
 ### Strategy
