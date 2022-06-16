@@ -171,7 +171,7 @@ section span, footer span {
     float: left;
     width: 250px;
     height: 150px;
-    border-radius: 40px;
+    border-radius: 25px;
     outline: 12px solid rgba(74, 74, 74, .5);
     outline-offset: -12px;
     object-fit: cover;
@@ -440,6 +440,30 @@ footer a:hover {
     color: #FFF;
 }
 
+/* Back to top button */
+
+.back-to-top {
+    background-color: #DC5454;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    position: fixed;
+    right: 5%;
+    bottom: 5%;
+    border-radius: 50%;
+    font-size: 30px;
+    cursor: pointer;
+    padding-top: 2px;
+}
+
+.back-to-top i {
+    color: white;
+}
+
+.back-to-top:hover {
+    background-color: #4a4a4a;
+}
+
 /* For screen sizes from 1200px and down */
 
 @media screen and (max-width: 1200px) {
@@ -477,8 +501,7 @@ footer a:hover {
     
     .contact-main-text {
         width: 100%;
-        padding-left: 2%;
-        padding-right: 2%;
+        padding: 0 2%;
     }
 
     .left {
@@ -512,26 +535,25 @@ footer a:hover {
 
 }
 
-@media screen and (max-width: 675px) {
+@media screen and (max-width: 700px) {
 
     .square-image {
         float: left;
         width: 250px;
         height: 150px;
-        border-radius: 40px;
         outline: 12px solid rgba(74, 74, 74, .5);
         outline-offset: -12px;
+        border-radius: 25px;
         object-fit: cover;
         animation-name: outline;
         animation-duration: 3s;
-        margin-left: 5%;
+        margin-top: 5%;
     }
     
     .square-text {
         float: left;
         width: 100%;
-        padding-left: 5%;
-        padding-right: 5%;
+        padding: 0 5%;
     }
 
     .circle-image {
@@ -550,39 +572,20 @@ footer a:hover {
     .circle-text {
         float: left;
         width: 100%;
-        padding-left: 5%;
-        padding-right: 5%;
+        padding: 0 5%;
     }
 
     .contact-main-text {
         width: 100%;
-        padding-left: 2%;
-        padding-right: 2%;
+        padding: 0 5%;
+    }
+
+    .middle p {
+        padding: 0 5%;
     }
 
 }
 
-.back-to-top {
-    background-color: #DC5454;
-    width: 50px;
-    height: 50px;
-    text-align: center;
-    position: fixed;
-    right: 5%;
-    bottom: 5%;
-    border-radius: 50%;
-    font-size: 30px;
-    cursor: pointer;
-    padding-top: 2px;
-}
-
-.back-to-top i {
-    color: white;
-}
-
-.back-to-top:hover {
-    background-color: #4a4a4a;
-}
 
 /* Credit code (https://google-map-generator.com/) */
 
