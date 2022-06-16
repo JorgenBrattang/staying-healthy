@@ -123,14 +123,14 @@ section div {
     margin: 0 auto;
 }
 
-section li {
+section li, footer span {
     font-family: Poppins, sans-serif;
     margin-left: 5%;
     font-size: 13px;
     text-align: left;
 }
 
-section span {
+section span, footer span {
     color: #DC5454;
 }
 
