@@ -84,23 +84,24 @@
                 <div class="contact-right">
                     <fieldset>
                         <form action="contact-dump.html">
-                            <div><label for="name">Name:</label></div>
+                            <div><label for="name">(Optional) Name:</label></div>
                             <input type="text" id="name" name="name">
                             <br>
-                            <div><label for="email">Email:</label></div>
+                            <div><label for="email"><span>*</span> Email:</label></div>
                             <input type="email" id="email" name="email" required>
                             <br>
-                            <div><label for="subject">Subject:</label></div>
-                            <input type="text" id="subject" name="subject">
+                            <div><label for="subject"><span>*</span> Subject:</label></div>
+                            <input type="text" id="subject" name="subject" required>
                             <br>
-                            <div><label for="text">What's on your mind:</label></div>
+                            <div><label for="text"><span>*</span> What's on your mind:</label></div>
                             <br>
-                            <textarea id="text" name="textarea" cols="50" rows="9"></textarea>
+                            <textarea id="text" name="textarea" cols="50" rows="9" required></textarea>
                             <br>
                             <div><input type="radio" value="yes" name="radio"> <label>Sign up for newsletter</label></div>
                             <p class="clear"></p>
                             <input type="submit" value="Submit">
                             <input type="reset" value="Clear form">
+                            <p><span>*</span> = field is required</p>
                         </form>
                     </fieldset>
                 </div>
