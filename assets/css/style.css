@@ -591,6 +591,13 @@ footer a:hover {
 
 }
 
+@media screen and (max-width: 375px) {
+	fieldset div {
+		padding-top: 15%;
+	}
+}
+
+
 
 /* Credit code (https://google-map-generator.com/) */
 
