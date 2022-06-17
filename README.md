@@ -2,6 +2,10 @@
 
 ![Wireframe from balsamiq](assets/images/readme-files/web-screenshot.png)
 
+
+
+<a href="https://jorgenbrattang.github.io/staying-healthy/" title="Link to live website" rel="nofollow">View live website here!</a>
+
 Staying Healthy is for people's awareness of using stretching and the basic knowledge of anatomy, to get a better understanding how important it is for our health.
 
 Here will you find the basic knowledge to get started on the journey of better understanding:
@@ -205,6 +209,30 @@ Ran through all the code and no errors were found.
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 ```
 
+# Technologies Used
+
+## Main Language Used
+
+- HTML5
+- CSS3
+
+## Frameworks, Libraries & Programs Used
+
+- Google Fonts
+    - Google fonts was used to import the fonts "Special Elite", "Open Sans", "Oswald" and "Nosifer" into the style.css file. These fonts were used throughout the project.
+- Font Awesome
+    - Font Awesome was used on almost all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
+- GitPod
+    - GitPod was used for writing code, commiting, and then pushing to GitHub.
+- GitHub
+    - GitHub was used to store the project after pushing
+- Balsamiq
+    - Balsamiq was used to create the wireframes during the design phase of the project.
+- Figma
+    - Figma was used to create the concept art during the design phase of the project.
+- Am I Responsive?
+    - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
+
 ## Deployment
 To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
 
@@ -217,14 +245,9 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 7. Scroll back down to the "Pages" section to retrieve the deployed link.
 
 # Credits
-From my mentor Oluwaseun Owonikoko advice and guidance, she showed me another student's README.md for this project that I took inspiration from
-and made my own version from it:
-
-- [Irishbecky91](https://github.com/Irishbecky91/survival-guild)
-
-The main content came from these different sites:
 
 ## Content
+The main content came from these different sites:
 
 - [Harvard Medical School](https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching)
 - [Veritas Health](https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true)
@@ -259,9 +282,5 @@ Anatomy:
 - [w3c school - CSS Forms](https://www.w3schools.com/css/css_form.asp)
 - [Google map generator](https://google-map-generator.com/)
 
-
-## Main Language Used
-
-- HTML5
-- CSS3
-
+# Acknowledgements
+From my mentor <a href="https://github.com/seunkoko" title="Link to GitHub profile" rel="nofollow">Oluwaseun Owonikoko</a> advice and guidance, she shared her knowledge and gave me insight and ideas to get the most of my website. She also showed me another student README.md for this project, <a href="https://github.com/Irishbecky91/survival-guild" title="Link to Irishbecky91 repository" rel="nofollow">Irishbecky91</a> that I took inspiration from. Irishbecky91 had such good structure that gave my README an awesome baseline to use and continue to grow from for my future projects.
