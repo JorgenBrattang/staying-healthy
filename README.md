@@ -218,19 +218,19 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 ## Frameworks, Libraries & Programs Used
 
-- Google Fonts
+- <a href="https://fonts.google.com/" title="Link to google fonts" rel="nofollow">Google Fonts</a>
     - Google fonts was used to import the fonts "Special Elite", "Open Sans", "Oswald" and "Nosifer" into the style.css file. These fonts were used throughout the project.
-- Font Awesome
+- <a href="https://fontawesome.com/" title="Link to font awesome" rel="nofollow">Font awesome</a>
     - Font Awesome was used on almost all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
-- GitPod
+- <a href="https://gitpod.io/" title="Link to gitpod" rel="nofollow">GitPod</a>
     - GitPod was used for writing code, commiting, and then pushing to GitHub.
-- GitHub
+- <a href="https://github.com/" title="Link to github" rel="nofollow">Github</a>
     - GitHub was used to store the project after pushing
-- Balsamiq
+- <a href="https://balsamiq.com/" title="Link to balsamiq" rel="nofollow">Balsamiq</a>
     - Balsamiq was used to create the wireframes during the design phase of the project.
-- Figma
+- <a href="https://www.figma.com/" title="Link to figma" rel="nofollow">Figma</a>
     - Figma was used to create the concept art during the design phase of the project.
-- Am I Responsive?
+- <a href="https://amiresponsive.blogspot.com/" title="Link to am I responsive" rel="nofollow">Am I Responsive</a>
     - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
 
 ## Deployment
