@@ -1,3 +1,5 @@
+![Wireframe from balsamiq](assets/images/readme-files/web-screenshot.png)
+
 # Staying Healthy
 
 Staying Healthy is for people's awareness of using stretching and the basic knowledge of anatomy, to get a better understanding how important it is for our health.
