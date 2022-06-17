@@ -1,6 +1,6 @@
-![Wireframe from balsamiq](assets/images/readme-files/web-screenshot.png)
-
 # Staying Healthy
+
+![Wireframe from balsamiq](assets/images/readme-files/web-screenshot.png)
 
 Staying Healthy is for people's awareness of using stretching and the basic knowledge of anatomy, to get a better understanding how important it is for our health.
 
@@ -16,6 +16,9 @@ The site is aimed at people who want to feel better and staying healthy.
 
 # UX
 
+### Development
+Is to create a website that will get the user to get the fundamental understanding of human body and its movement. To do this the developer must research some basic knowledge of the human body and piece together a fundamental structure on how to inform other users with this information.
+
 ### Strategy
 
 The Strategy for this site is to get people the basic knowledge of anatomy and about the importance of stretching. 
@@ -28,7 +31,7 @@ The target groups are:
 <br>
 
 ### Scope
-The scope plane is that you will easly get ahold of the information that the users need and to get them started on the journey to better understand the human body.
+The user will easly get ahold of the information to get them started on the journey to better understand the human body.
 
 The features will be a page for:
 - The importance of stretching, through images and article.
@@ -68,25 +71,6 @@ The design of from the skeleton stayed mostly the same, some changes were made t
 
 The surface was made with [Figma](https://www.figma.com/)
 
-
-### Typography
-To make the text more easy to read I ended up using [Poppins](https://fonts.google.com/specimen/Poppins?thickness=5&preview.text=You%20may%20think%20of%20stretching%20as%20something%20performed%20only%20by%20runners%20or%20gymnasts.%20But%20we%20all%20need%20to%20stretch%20in%20order%20to%20protect%20our%20mobility%20and%20independence.%20%22A%20lot%20of%20people%20don%27t%20understand%20that%20stretching%20has%20to%20happen%20on%20a%20regular%20basis.%20It%20should%20be%20daily,%22%20says%20David%20Nolan,%20a%20physical%20therapist%20at%20Harvard-affiliated%20Massachusetts%20General%20Hospital.&preview.size=17&preview.text_type=custom&query=Poppins)
- for the paragraphs and 
-and [Oswald](https://fonts.google.com/specimen/Oswald?thickness=5&preview.text=You%20may%20think%20of%20stretching%20as%20something%20performed%20only%20by%20runners%20or%20gymnasts.%20But%20we%20all%20need%20to%20stretch%20in%20order%20to%20protect%20our%20mobility%20and%20independence.%20%22A%20lot%20of%20people%20don%27t%20understand%20that%20stretching%20has%20to%20happen%20on%20a%20regular%20basis.%20It%20should%20be%20daily,%22%20says%20David%20Nolan,%20a%20physical%20therapist%20at%20Harvard-affiliated%20Massachusetts%20General%20Hospital.&preview.size=17&preview.text_type=custom&query=oswald)
- for header, and Sans-Serif as backup incase the other fonts don't work.
-
-<br>
-
-### Color scheme
-Was made to make the text more user friendly.
-
-**#DC5454** <br>
-![#DC5454](assets/images/readme-files/dc5454.png)
-
-**#4A4A4A** <br>
-![#4A4A4A](assets/images/readme-files/4a4a4a.png)
-
-
 <details><summary>Home Page</summary>
 
 ![home-page](assets/images/readme-files/home-page.png)
@@ -110,6 +94,25 @@ Was made to make the text more user friendly.
 ![stretch-page](assets/images/readme-files/contact-page.png)
 
 </details>
+
+<br>
+
+### Typography
+To make the text more easy to read I ended up using [Poppins](https://fonts.google.com/specimen/Poppins?thickness=5&preview.text=You%20may%20think%20of%20stretching%20as%20something%20performed%20only%20by%20runners%20or%20gymnasts.%20But%20we%20all%20need%20to%20stretch%20in%20order%20to%20protect%20our%20mobility%20and%20independence.%20%22A%20lot%20of%20people%20don%27t%20understand%20that%20stretching%20has%20to%20happen%20on%20a%20regular%20basis.%20It%20should%20be%20daily,%22%20says%20David%20Nolan,%20a%20physical%20therapist%20at%20Harvard-affiliated%20Massachusetts%20General%20Hospital.&preview.size=17&preview.text_type=custom&query=Poppins)
+ for the paragraphs and 
+and [Oswald](https://fonts.google.com/specimen/Oswald?thickness=5&preview.text=You%20may%20think%20of%20stretching%20as%20something%20performed%20only%20by%20runners%20or%20gymnasts.%20But%20we%20all%20need%20to%20stretch%20in%20order%20to%20protect%20our%20mobility%20and%20independence.%20%22A%20lot%20of%20people%20don%27t%20understand%20that%20stretching%20has%20to%20happen%20on%20a%20regular%20basis.%20It%20should%20be%20daily,%22%20says%20David%20Nolan,%20a%20physical%20therapist%20at%20Harvard-affiliated%20Massachusetts%20General%20Hospital.&preview.size=17&preview.text_type=custom&query=oswald)
+ for header, and Sans-Serif as backup incase the other fonts don't work.
+
+<br>
+
+### Color scheme
+Was made to make the text more user friendly.
+
+**#DC5454** <br>
+![#DC5454](assets/images/readme-files/dc5454.png)
+
+**#4A4A4A** <br>
+![#4A4A4A](assets/images/readme-files/4a4a4a.png)
 
 ## <u>Features</u>
 
@@ -232,6 +235,9 @@ The main content came from these different sites:
 - The fonts used were taken from [Google Fonts](https://fonts.google.com/)
         
 ## Media
+
+README:
+- [Am I Responsive](https://amiresponsive.blogspot.com/)
 
 Home Page:
 
