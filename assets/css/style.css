@@ -320,7 +320,9 @@ textarea {
 	border: 1px solid #ccc;
 	border-radius: 4px;
 	min-height: 150px;
-	max-width: 350px;
+	max-width: 100%;
+    resize: vertical;
+    overflow: auto;
 }
 
 fieldset {
