@@ -206,16 +206,15 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 ```
 
 ## Deployment
-```
-<u>This text will be removed, its just a guideline!</u>
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
 
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
-```
+1. Log into <a href="https://github.com/login" title="Link to GitHub login" rel="nofollow">GitHub</a> or <a href="(https://github.com/join)" title="Link to GitHub join" rel="nofollow">Create an account</a>.
+2. Locate the <a href="https://github.com/JorgenBrattang/staying-healthy" title="Link to GitHub Repository" rel="nofollow">GitHub Repository</a>.
+3. At the top of the repository, select Settings from the menu items.
+4. Scroll down the Settings page to the "Pages" section.
+5. Under "Source" click the drop-down menu labelled "None" and select "Main".
+6. Upon selection, the page will automatically refresh meaning that the website is now deployed.
+7. Scroll back down to the "Pages" section to retrieve the deployed link.
 
 # Credits
 From my mentor Oluwaseun Owonikoko advice and guidance, she showed me another student's README.md for this project that I took inspiration from
