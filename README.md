@@ -186,13 +186,14 @@ If this section grows too long, you may want to split it off into a separate fil
 ```
 
 ## Validator Testing
-```
-<u>This text will be removed, its just a guideline!</u>
-HTML
-No errors were returned when passing through the official W3C validator
-CSS
-No errors were found when passing through the official (Jigsaw) validator
-```
+Ran through all the code and no errors were found.
+
+**HTML**
+- No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
+
+**CSS**
+- No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+
 ## Unfixed bugs
 ```
 <u>This text will be removed, its just a guideline!</u>
