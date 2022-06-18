@@ -209,7 +209,7 @@ footer span {
 .contact-left {
 	width: 50%;
 	float: left;
-	height: 40vh;
+	height: auto;
 	padding-right: 1.5%;
 }
 
@@ -499,7 +499,7 @@ footer a:hover {
 	.contact-left {
 		width: 100%;
 		float: left;
-		height: 55vh;
+		height: auto;
 		padding-right: 1.5%;
 		margin-left: 1.8%;
 	}
@@ -595,6 +595,15 @@ footer a:hover {
 	fieldset div {
 		padding-top: 15%;
 	}
+}
+
+/* Special media queries */
+
+@media only screen 
+    and (device-width : 600px) 
+    and (device-height: 1024px) 
+	{  
+	
 }
 
 
