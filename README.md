@@ -182,12 +182,17 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
 ## Testing
 
 Found a bug when resizing the size of the screens height. It made the footer float far above the bottom of the page.
-- Fixed by changing the footer from the section to its own place within the HTML and adding a display flex and column to the body.
+- <strong style="color:#60E60E;">Problem solved</strong>, by changing the footer from the section to its own place within the HTML and adding a display flex and column to the body.
 
 
-### Slack peer-code-review
+### Slack #peer-code-review
 - Carina Stenger
     - "After submitting the form the line ‚have a nice day‘ could use a bit more padding (checked on an iphone SE)"
+        - <strong style="color:#60E60E;">Problem solved</strong>, by changing the media queiry for that size of phone.
+
+- Hannah Carey_5p
+    - "Issue I found was on the form validation page. The text is hidden by the google maps location on my screen.
+        - <strong style="color:#60E60E;">Problem solved</strong>, by changing the div containing the map to auto instead of procent and make the map fixed height.
 
 ```
 <u>This text will be removed, its just a guideline!</u>
