@@ -2,8 +2,6 @@
 
 ![Wireframe from balsamiq](assets/images/readme-files/web-screenshot.png)
 
-
-
 <a href="https://jorgenbrattang.github.io/staying-healthy/" title="Link to live website" rel="nofollow">View live website here!</a>
 
 Staying Healthy is for people's awareness of using stretching and the basic knowledge of anatomy, to get a better understanding how important it is for our health.
@@ -20,11 +18,10 @@ The site is aimed at people who want to feel better and staying healthy.
 
 # UX
 
-### Development
+### <u>Development</u>
 Is to create a website that will get the user to get the fundamental understanding of human body and its movement. To do this the developer must research some basic knowledge of the human body and piece together a fundamental structure on how to inform other users with this information.
 
-### Strategy
-
+### <u>Strategy</u>
 The Strategy for this site is to get people the basic knowledge of anatomy and about the importance of stretching. 
 
 The target groups are:
@@ -34,7 +31,7 @@ The target groups are:
 
 <br>
 
-### Scope
+### <u>Scope</u>
 The user will easly get ahold of the information to get them started on the journey to better understand the human body.
 
 The features will be a page for:
@@ -45,7 +42,7 @@ The features will be a page for:
 
 <br>
 
-### Structure
+### <u>Structure</u>
 The information and features was made into a easy to follow and read structure, with clear directions.
 
 
@@ -57,7 +54,7 @@ The information and features was made into a easy to follow and read structure, 
 
 <br>
 
-### Skeleton
+### <u>Skeleton</u>
 The skeleton wireframe was made to give a clean and easy to use experiance. 
 
 Made with [Balsamiq](https://www.balsamiq.com/)
@@ -70,7 +67,7 @@ Made with [Balsamiq](https://www.balsamiq.com/)
 
 <br>
 
-### Surface
+### <u>Surface</u>
 The design of from the skeleton stayed mostly the same, some changes were made to make it more pleasent to look at and make it more user friendly. With some input from my mentor and family. 
 
 The surface was made with [Figma](https://www.figma.com/)
@@ -101,7 +98,7 @@ The surface was made with [Figma](https://www.figma.com/)
 
 <br>
 
-### Typography
+### <u>Typography</u>
 To make the text more easy to read I ended up using [Poppins](https://fonts.google.com/specimen/Poppins?thickness=5&preview.text=You%20may%20think%20of%20stretching%20as%20something%20performed%20only%20by%20runners%20or%20gymnasts.%20But%20we%20all%20need%20to%20stretch%20in%20order%20to%20protect%20our%20mobility%20and%20independence.%20%22A%20lot%20of%20people%20don%27t%20understand%20that%20stretching%20has%20to%20happen%20on%20a%20regular%20basis.%20It%20should%20be%20daily,%22%20says%20David%20Nolan,%20a%20physical%20therapist%20at%20Harvard-affiliated%20Massachusetts%20General%20Hospital.&preview.size=17&preview.text_type=custom&query=Poppins)
  for the paragraphs and 
 and [Oswald](https://fonts.google.com/specimen/Oswald?thickness=5&preview.text=You%20may%20think%20of%20stretching%20as%20something%20performed%20only%20by%20runners%20or%20gymnasts.%20But%20we%20all%20need%20to%20stretch%20in%20order%20to%20protect%20our%20mobility%20and%20independence.%20%22A%20lot%20of%20people%20don%27t%20understand%20that%20stretching%20has%20to%20happen%20on%20a%20regular%20basis.%20It%20should%20be%20daily,%22%20says%20David%20Nolan,%20a%20physical%20therapist%20at%20Harvard-affiliated%20Massachusetts%20General%20Hospital.&preview.size=17&preview.text_type=custom&query=oswald)
@@ -109,7 +106,7 @@ and [Oswald](https://fonts.google.com/specimen/Oswald?thickness=5&preview.text=Y
 
 <br>
 
-### Color scheme
+### <u>Color scheme</u>
 Was made to make the text more user friendly.
 
 **#DC5454** <br>
@@ -179,33 +176,25 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
     - Features a submit and clear form button. 
         - Changes when the screensize is below 700px to fit the entire width of the page.
 
-## Testing
+## <u>Testing</u>
+The developer ran into few problems along the way of developing the website, the problems worth mentioning are the responsive side of the website. 
 
-Found a bug when resizing the size of the screens height. It made the footer float far above the bottom of the page.
-- <strong style="color:#60E60E;">Problem solved</strong>, by changing the footer from the section to its own place within the HTML and adding a display flex and column to the body.
-
+Bug found when resizing the size of the screens height. It made the footer float far above the bottom of the page.
+- <strong style="color:#71F57E;">Problem solved</strong>, by changing the footer from the section to its own place within the HTML and adding a display flex and column to the body.
 
 ### Slack #peer-code-review
 - Carina Stenger
     - "After submitting the form the line ‚have a nice day‘ could use a bit more padding (checked on an iphone SE)"
-        - <strong style="color:#60E60E;">Problem solved</strong>, by changing the media queiry for that size of phone.
+        - <strong style="color:#71F57E;">Problem solved</strong>, by changing the media queiry for that size of phone.
 
 - Hannah Carey_5p
     - "Issue I found was on the form validation page. The text is hidden by the google maps location on my screen.
-        - <strong style="color:#60E60E;">Problem solved</strong>, by changing the div containing the map to auto instead of procent and make the map fixed height.
+        - <strong style="color:#71F57E;">Problem solved</strong>, by changing the div containing the map to auto instead of procent and make the map fixed height.
 
-```
-<u>This text will be removed, its just a guideline!</u>
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+### <u>Websites on different browsers and screen sizes</u>
+The Website it self looks almost the same on different browsers, it changes by it self when reforming the screen size either on the computer or different devices. Small changes have been made to accompany the different sizes. The major part of the website is similar so even if your on a different device you can easly navigate and read the websites content.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-```
-
-## Validator Testing
+## <u>Validator Testing</u>
 Ran through all the code and no errors were found.
 
 **HTML**
@@ -214,20 +203,19 @@ Ran through all the code and no errors were found.
 **CSS**
 - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 
-## Unfixed bugs
-```
-<u>This text will be removed, its just a guideline!</u>
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
-```
+## <u>Unfixed bugs</u>
+The developer have no unfixed bugs by the time this was written.
 
-# Technologies Used
+Shortcomings of the technologies used is most noticed in the form when pressing "Submit" and the fade effects on the images/map/video, it could be made smoother and better with use of technologies like for example JAVA.
 
-## Main Language Used
+# <u>Technologies Used</u>
+
+## <u>Main Language Used</u>
 
 - HTML5
 - CSS3
 
-## Frameworks, Libraries & Programs Used
+## <u>Frameworks, Libraries & Programs Used</u>
 
 - <a href="https://fonts.google.com/" title="Link to google fonts" rel="nofollow">Google Fonts</a>
     - Google fonts was used to import the fonts "Special Elite", "Open Sans", "Oswald" and "Nosifer" into the style.css file. These fonts were used throughout the project.
@@ -244,7 +232,7 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 - <a href="https://amiresponsive.blogspot.com/" title="Link to am I responsive" rel="nofollow">Am I Responsive</a>
     - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
 
-## Deployment
+## <u>Deployment</u>
 To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
 
 1. Log into <a href="https://github.com/login" title="Link to GitHub login" rel="nofollow">GitHub</a> or <a href="(https://github.com/join)" title="Link to GitHub join" rel="nofollow">Create an account</a>.
@@ -257,7 +245,7 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 
 # Credits
 
-## Content
+## <u>Content</u>
 The main content came from these different sites:
 
 - [Harvard Medical School](https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching)
@@ -267,7 +255,7 @@ The main content came from these different sites:
 - The Logo in the header and the social icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - The fonts used were taken from [Google Fonts](https://fonts.google.com/)
         
-## Media
+## <u>Media</u>
 
 README:
 - [Am I Responsive](https://amiresponsive.blogspot.com/)
@@ -288,7 +276,7 @@ Anatomy:
 
 - [MooMooMath and Science](https://www.youtube.com/watch?v=z7psWfRLXFY)
 
-## Tutorial / used code
+## <u>Tutorial / used code</u>
 
 - [w3c school - CSS Forms](https://www.w3schools.com/css/css_form.asp)
 - [Google map generator](https://google-map-generator.com/)
