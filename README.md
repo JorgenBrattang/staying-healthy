@@ -240,6 +240,10 @@ Shortcomings of the technologies used is most noticed in the form when pressing 
     - Figma was used to create the concept art during the design phase of the project.
 - <a href="https://amiresponsive.blogspot.com/" title="Link to am I responsive" rel="nofollow">Am I Responsive</a>
     - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
+- <a href="https://www.freeformatter.com/html-formatter.html" title="Link to freeformatter" rel="nofollow">freeformatter</a>
+    - Freeformatter was used to compressed my code to be more readable.
+
+
 
 ## <u>Deployment</u>
 To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
