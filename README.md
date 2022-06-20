@@ -242,7 +242,8 @@ Shortcomings of the technologies used is most noticed in the form when pressing 
     - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
 - <a href="https://www.freeformatter.com/html-formatter.html" title="Link to freeformatter" rel="nofollow">freeformatter</a>
     - Freeformatter was used to compressed my code to be more readable.
-
+- <a href="https://gauger.io/fonticon/" title="Link to fonticon" rel="nofollow">Fonticon</a>
+    - Fonticon was used to create a favicon.ico to the title.
 
 
 ## <u>Deployment</u>
