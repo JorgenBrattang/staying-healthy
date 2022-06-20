@@ -100,9 +100,9 @@ The surface was made with [Figma](https://www.figma.com/)
 </details>
 
 ### Changes during the design process
-- The footer was changed due to input from user's that wanted a more clear view of the information from the footer element.
-- The anatomy page changed from having a image that displayed the human anatomy to a video that showed you and talked you through the whole process instead.
-- The contact page changed some text for requirements when filling out the form and the buttons change to a more appealing user experiance.
+- <strong>The footer</strong> was changed due to input from user's that wanted a more clear view of the information from the footer element.
+- <strong>The anatomy</strong> page changed from having a image that displayed the human anatomy to a video that showed you and talked you through the whole process instead.
+- <strong>The contact</strong> page changed some text for requirements when filling out the form and the buttons change to a more appealing user experiance.
 <br>
 
 ### <u>Typography</u>
@@ -126,9 +126,11 @@ Was made to make the text more user friendly.
 
 All the pages features a stylish logo that shows the sites name <strong>"Staying Healthy"</strong> and slogan <strong>"The importance of stretching"</strong>.
     
-- <strong>Navigation bar</strong> that features easy to read and where to find the different parts of the website. This resizes with the website and doesn't change in shape.
+- <strong>Navigation bar</strong> that features easy to read and where to find the different parts of the website.
+    - This resizes with the website and doesn't change in shape.
 
-- <strong>Footer</strong> is 800px wide as the site and will keep it size until the user goes below 525px, it will make the three text field stack ontop of each other.
+- <strong>Footer</strong> is flexiable to keep it looking good on all screensizes.
+    - The three text field stack ontop of each other when below 775px.
 
 - <strong>Image / map</strong> feature fade in outline screenshoot:
 <br><br>
@@ -141,9 +143,9 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
     - Stays the same at all screen sizes.
 - <strong>Circle images</strong> shows people preforming stretches.
     - Features an outline fade in effect to the right opacity. 
-        - The placement will change when the screensize is below 700px to be above the text rather next to it.
+        - The placement will change when the screensize is below 775px to be above the text rather next to it.
 - <strong>Circle text</strong> holds parts of the article.
-    - The placement will change when the screensize is below 700px to be below the text rather next to it.
+    - The placement will change when the screensize is below 775px to be below the text rather next to it.
 - <strong>Read more</strong>, holds credit text where the article was taken from.
     - Stays the same at all screen sizes.
 
@@ -153,16 +155,16 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
     - Stays the same at all screen sizes.
 - <strong>Square images</strong> shows images how the stretch is made.
     - Features an outline fade in to the right opacity. 
-        - The placement will change when the screensize is below 700px to be above the text rather next to it.
+        - The placement will change when the screensize is below 775px to be above the text rather next to it.
 - <strong>Square text</strong> discribes how to preform the stretch.
-    - The placement will change when the screensize is below 700px to be below the text rather next to it.
+    - The placement will change when the screensize is below 775px to be below the text rather next to it.
 - <strong>Read more</strong>, credit text where the article was taken from.
     - Stays the same at all screen sizes.
 
 ### <u>Anatomy</u>
 
 - <strong>Video</strong> that shows information about the major muscles system. 
-    - Features an fade in effect to the right opacity and a scale from 0 to 1. 
+    - Features an fade in effect to the right opacity. 
         - Scales with the site.
 - <strong>Main text</strong> that holds the shorten version of an article.
     - Stays the same at all screen sizes.
@@ -172,16 +174,16 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
 ### <u>Contact</u>
 
 - <strong>Main text</strong> that holds the intro text to this page. 
-    - Changes when the screensize is below 700px to fit the entire width of the page.
+    - Changes when the screensize is below 775px to fit the entire width of the page.
 - <strong>Contact</strong> holds the information to contact.
     - Features an unsorted list. 
-        - Changes when the screensize is below 700px to fit the entire width of the page.
+        - Changes when the screensize is below 775px to fit the entire width of the page.
 - <strong>Map</strong> that shows where the location with help from google maps.
     - Features an fade in effect to the right opacity. 
-        - Changes when the screensize is below 700px to fit the entire width of the page.
+        - Changes when the screensize is below 775px to fit the entire width of the page.
 - <strong>Contact form</strong> where the user can contact and sign up for a newsletter.
     - Features a submit and clear form button. 
-        - Changes when the screensize is below 700px to fit the entire width of the page.
+        - Changes when the screensize is below 775px to fit the entire width of the page.
 
 ## <u>Testing</u>
 The developer ran into few problems along the way of developing the website, the problems worth mentioning are the responsive side of the website. 
@@ -254,39 +256,33 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 
 ## <u>Content</u>
 The main content came from these different sites:
-
-- [Harvard Medical School](https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching)
-- [Veritas Health](https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true)
-- [Elevate](https://www.elevatenutrition.com/13-major-muscle-groups-body-functions/)
-
-- The Logo in the header and the social icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- The fonts used were taken from [Google Fonts](https://fonts.google.com/)
+- <a href="https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching" title="Link to Harvard Medical School" rel="nofollow">Harvard Medical School</a>
+- <a href="https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true" title="Link to Veritas Health" rel="nofollow">Veritas Health</a>
+- <a href="https://www.elevatenutrition.com/13-major-muscle-groups-body-functions/" title="Link to Elevate" rel="nofollow">Elevate</a>
+- The Logo in the header and the social icons in the footer were taken from <a href="https://fontawesome.com/" title="Link to Font Awesome" rel="nofollow">Font Awesome</a>
+- The fonts used were taken from <a href="https://fonts.google.com/" title="Link to Google Fonts" rel="nofollow">Google Fonts</a>
         
 ## <u>Media</u>
 
 README:
-- [Am I Responsive](https://amiresponsive.blogspot.com/)
+- <a href="https://amiresponsive.blogspot.com/" title="Link to Am I Responsive" rel="nofollow">Am I Responsive</a>
 
 Home Page:
-
-- [dex-ezekiel](https://unsplash.com/photos/We6cFKHo8sQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-- [Anastasia Hisel](https://unsplash.com/photos/tpivPdQgC20?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-- [LUNA ACTIVE FITNESS](https://unsplash.com/photos/O3AA1XfKofM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-- [Kari Shea](https://unsplash.com/photos/qa1wvrlWCio?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-- [Julia Rekamie](https://unsplash.com/photos/2aHSA17X17c?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+- <a href="https://unsplash.com/photos/We6cFKHo8sQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to Dex Ezekiel" rel="nofollow">Dex Ezekiel</a>
+- <a href="https://unsplash.com/photos/tpivPdQgC20?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to Anastasia Hisel" rel="nofollow">Anastasia Hisel</a>
+- <a href="https://unsplash.com/photos/O3AA1XfKofM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to LUNA ACTIVE FITNESS" rel="nofollow">LUNA ACTIVE FITNESS</a>
+- <a href="https://unsplash.com/photos/qa1wvrlWCio?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to Kari Shea" rel="nofollow">Kari Shea</a>
+- <a href="https://unsplash.com/photos/2aHSA17X17c?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to Julia Rekamie" rel="nofollow">Julia Rekamie</a>
 
 Stretches:
-
-- [Veritas Health](https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true)
+- <a href="https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true" title="Link to Veritas Health" rel="nofollow">Veritas Health</a>
 
 Anatomy:
-
-- [MooMooMath and Science](https://www.youtube.com/watch?v=z7psWfRLXFY)
+- <a href="https://www.youtube.com/watch?v=z7psWfRLXFY" title="Link to MooMooMath and Science" rel="nofollow">MooMooMath and Science</a>
 
 ## <u>Tutorial / used code</u>
-
-- [w3c school - CSS Forms](https://www.w3schools.com/css/css_form.asp)
-- [Google map generator](https://google-map-generator.com/)
+- <a href="https://www.w3schools.com/css/css_form.asp" title="Link to w3c school - CSS Forms" rel="nofollow">w3c school - CSS Forms</a>
+- <a href="https://google-map-generator.com/" title="Link to Google map generator" rel="nofollow">Google map generator</a>
 
 # Acknowledgements
 From my mentor <a href="https://github.com/seunkoko" title="Link to GitHub profile" rel="nofollow">Oluwaseun Owonikoko</a> advice and guidance, she shared her knowledge and gave me insight and ideas to get the most of my website. She also showed me another student README.md for this project, <a href="https://github.com/Irishbecky91/survival-guild" title="Link to Irishbecky91 repository" rel="nofollow">Irishbecky91</a> that I took inspiration from. Irishbecky91 had such good structure that gave my README an awesome baseline to use and continue to grow from for my future projects.
