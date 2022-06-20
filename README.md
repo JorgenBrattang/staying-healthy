@@ -4,7 +4,7 @@
 
 <a href="https://jorgenbrattang.github.io/staying-healthy/" title="Link to live website" rel="nofollow">View live website here!</a>
 
-Staying Healthy is for people's awareness of using stretching and the basic knowledge of anatomy, to get a better understanding how important it is for our health.
+Staying Healthy is for user's awareness of using stretching and the basic knowledge of anatomy, to get a better understanding how important it is for our health.
 
 Here will you find the basic knowledge to get started on the journey of better understanding:
 
@@ -12,22 +12,22 @@ Here will you find the basic knowledge to get started on the journey of better u
 - **Basic neck stretches**
 - **Anatomy major muscle groups**
 
-The site is aimed at people who want to feel better and staying healthy.
+The site is aimed at users who want to feel better and staying healthy.
 
 <br>
 
 # UX
 
 ### <u>Development</u>
-Is to create a website that will get the user to get the fundamental understanding of human body and its movement. To do this the developer must research some basic knowledge of the human body and piece together a fundamental structure on how to inform other users with this information.
+The developer aims to create a website that will get the user to get the fundamental understanding of human body and its movement. To do this the developer must research some basic knowledge of the human body and piece together a fundamental structure on how to inform other users with this information.
 
 ### <u>Strategy</u>
-The Strategy for this site is to get people the basic knowledge of anatomy and about the importance of stretching. 
+To achive this the website aims at the users to gain the basic knowledge of anatomy and about the importance of stretching. 
 
 The target groups are:
 - All Ages
 - Users who want to know how to feel better and staying healthy
-- Who want to get basic knowledge about major muscle groups
+- Users that want to get basic knowledge about major muscle groups
 
 <br>
 
@@ -35,16 +35,19 @@ The target groups are:
 The user will easly get ahold of the information to get them started on the journey to better understand the human body.
 
 The features will be a page for:
-- The importance of stretching, through images and article.
-- Easy exercice for neck and shoulder stretches, through images and article.
-- The major muscle groups, through video and an article.
-- Contact page with form and location.
+- The importance of stretching
+    - Through images and article.
+- Easy exercice for neck and shoulder stretches
+    - Through images and article.
+- The major muscle groups.
+    - Through video and an article.
+- Contact page.
+    - Through form and location.
 
 <br>
 
 ### <u>Structure</u>
 The information and features was made into a easy to follow and read structure, with clear directions.
-
 
 <details><summary>Structure made with Balsamiq</summary>
 
@@ -96,6 +99,10 @@ The surface was made with [Figma](https://www.figma.com/)
 
 </details>
 
+### Changes during the design process
+- The footer was changed due to input from user's that wanted a more clear view of the information from the footer element.
+- The anatomy page changed from having a image that displayed the human anatomy to a video that showed you and talked you through the whole process instead.
+- The contact page changed some text for requirements when filling out the form and the buttons change to a more appealing user experiance.
 <br>
 
 ### <u>Typography</u>
