@@ -130,7 +130,7 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
     - This resizes with the website and doesn't change in shape.
 
 - <strong>Footer</strong> is flexiable to keep it looking good on all screensizes.
-    - The three text field stack ontop of each other when below 775px.
+    - The three text field stack ontop of each other when below 700px.
 
 - <strong>Image / map</strong> feature fade in outline screenshoot:
 <br><br>
@@ -143,9 +143,9 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
     - Stays the same at all screen sizes.
 - <strong>Circle images</strong> shows people preforming stretches.
     - Features an outline fade in effect to the right opacity. 
-        - The placement will change when the screensize is below 775px to be above the text rather next to it.
+        - The placement will change when the screensize is below 700px to be above the text rather next to it.
 - <strong>Circle text</strong> holds parts of the article.
-    - The placement will change when the screensize is below 775px to be below the text rather next to it.
+    - The placement will change when the screensize is below 700px to be below the text rather next to it.
 - <strong>Read more</strong>, holds credit text where the article was taken from.
     - Stays the same at all screen sizes.
 
@@ -155,9 +155,9 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
     - Stays the same at all screen sizes.
 - <strong>Square images</strong> shows images how the stretch is made.
     - Features an outline fade in to the right opacity. 
-        - The placement will change when the screensize is below 775px to be above the text rather next to it.
+        - The placement will change when the screensize is below 700px to be above the text rather next to it.
 - <strong>Square text</strong> discribes how to preform the stretch.
-    - The placement will change when the screensize is below 775px to be below the text rather next to it.
+    - The placement will change when the screensize is below 700px to be below the text rather next to it.
 - <strong>Read more</strong>, credit text where the article was taken from.
     - Stays the same at all screen sizes.
 
@@ -174,16 +174,16 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
 ### <u>Contact</u>
 
 - <strong>Main text</strong> that holds the intro text to this page. 
-    - Changes when the screensize is below 775px to fit the entire width of the page.
+    - Changes when the screensize is below 700px to fit the entire width of the page.
 - <strong>Contact</strong> holds the information to contact.
     - Features an unsorted list. 
-        - Changes when the screensize is below 775px to fit the entire width of the page.
+        - Changes when the screensize is below 700px to fit the entire width of the page.
 - <strong>Map</strong> that shows where the location with help from google maps.
     - Features an fade in effect to the right opacity. 
-        - Changes when the screensize is below 775px to fit the entire width of the page.
+        - Changes when the screensize is below 700px to fit the entire width of the page.
 - <strong>Contact form</strong> where the user can contact and sign up for a newsletter.
     - Features a submit and clear form button. 
-        - Changes when the screensize is below 775px to fit the entire width of the page.
+        - Changes when the screensize is below 700px to fit the entire width of the page.
 
 ## <u>Testing</u>
 The developer ran into few problems along the way of developing the website, the problems worth mentioning are the responsive side of the website. 

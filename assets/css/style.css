@@ -483,7 +483,7 @@ footer a:hover {
 	}
 }
 
-/* For screen sizes from 725px and down */
+/* For screen sizes from 775px and down */
 
 @media screen and (max-width: 775px) {
 
@@ -539,6 +539,8 @@ footer a:hover {
 	}
 
 }
+
+/* For screen sizes from 700px and down */
 
 @media screen and (max-width: 700px) {
 
