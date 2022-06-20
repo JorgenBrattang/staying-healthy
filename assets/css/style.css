@@ -477,6 +477,8 @@ footer a:hover {
 	}
 }
 
+/* For screen sizes from 1000px and down */
+
 @media screen and (max-width: 1000px) {
 	section {
 		width: 95%;
