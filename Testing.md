@@ -1,7 +1,7 @@
 # Links
-- <a href="https://github.com/JorgenBrattang/staying-healthy" target="_blank">Github Repository</a>
-- <a href="https://github.com/JorgenBrattang/staying-healthy/blob/main/README.md" target="_blank">README.md</a>
-- <a href="https://jorgenbrattang.github.io/staying-healthy/" title="Link to live website" rel="nofollow" target="_blank">View live website here!</a>
+- <a href="https://github.com/JorgenBrattang/staying-healthy">Github Repository</a>
+- <a href="https://github.com/JorgenBrattang/staying-healthy/blob/main/README.md">README.md</a>
+- <a href="https://jorgenbrattang.github.io/staying-healthy/" title="Link to live website" rel="nofollow">View live website here!</a>
 
 # Feature testing
 ## <u>Video responsive test with free resizing and three screens iPhone SE, iPad Air and Nest Hub.</u>

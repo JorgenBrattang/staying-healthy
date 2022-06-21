@@ -2,7 +2,7 @@
 
 ![Wireframe from balsamiq](assets/images/readme-files/web-screenshot.png)
 
-<a href="https://jorgenbrattang.github.io/staying-healthy/" title="Link to live website" rel="nofollow" target="_blank">View live website here!</a>
+<a href="https://jorgenbrattang.github.io/staying-healthy/" title="Link to live website" rel="nofollow">View live website here!</a>
 
 Staying Healthy is for user's awareness of using stretching and the basic knowledge of anatomy, to get a better understanding how important it is for our health.
 
@@ -186,7 +186,7 @@ All the pages features a stylish logo that shows the sites name <strong>"Staying
         - Changes when the screensize is below 700px to fit the entire width of the page.
 
 ## <u>Testing</u>
-To see the testing part, please follow this link: <a href="https://github.com/JorgenBrattang/staying-healthy/blob/main/Testing.md" target="_blank">Testing.md</a>
+To see the testing part, please follow this link: <a href="https://github.com/JorgenBrattang/staying-healthy/blob/main/Testing.md">Testing.md</a>
 
 ## <u>Unfixed bugs</u>
 The developer have no unfixed bugs by the time this was written.
@@ -202,31 +202,31 @@ Shortcomings of the technologies used is most noticed in the form when pressing 
 
 ## <u>Frameworks, Libraries & Programs Used</u>
 
-- <a href="https://fonts.google.com/" title="Link to google fonts" rel="nofollow" target="_blank">Google Fonts</a>
+- <a href="https://fonts.google.com/" title="Link to google fonts" rel="nofollow">Google Fonts</a>
     - Google fonts was used to import the fonts "Special Elite", "Open Sans", "Oswald" and "Nosifer" into the style.css file. These fonts were used throughout the project.
-- <a href="https://fontawesome.com/" title="Link to font awesome" rel="nofollow" target="_blank">Font awesome</a>
+- <a href="https://fontawesome.com/" title="Link to font awesome" rel="nofollow">Font awesome</a>
     - Font Awesome was used on almost all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
-- <a href="https://gitpod.io/" title="Link to gitpod" rel="nofollow" target="_blank">GitPod</a>
+- <a href="https://gitpod.io/" title="Link to gitpod" rel="nofollow">GitPod</a>
     - GitPod was used for writing code, commiting, and then pushing to GitHub.
-- <a href="https://github.com/" title="Link to github" rel="nofollow" target="_blank">Github</a>
+- <a href="https://github.com/" title="Link to github" rel="nofollow">Github</a>
     - GitHub was used to store the project after pushing
-- <a href="https://balsamiq.com/" title="Link to balsamiq" rel="nofollow" target="_blank">Balsamiq</a>
+- <a href="https://balsamiq.com/" title="Link to balsamiq" rel="nofollow">Balsamiq</a>
     - Balsamiq was used to create the wireframes during the design phase of the project.
-- <a href="https://www.figma.com/" title="Link to figma" rel="nofollow" target="_blank">Figma</a>
+- <a href="https://www.figma.com/" title="Link to figma" rel="nofollow">Figma</a>
     - Figma was used to create the concept art during the design phase of the project.
-- <a href="https://amiresponsive.blogspot.com/" title="Link to am I responsive" rel="nofollow" target="_blank">Am I Responsive</a>
+- <a href="https://amiresponsive.blogspot.com/" title="Link to am I responsive" rel="nofollow">Am I Responsive</a>
     - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
-- <a href="https://www.freeformatter.com/html-formatter.html" title="Link to freeformatter" rel="nofollow" target="_blank">freeformatter</a>
+- <a href="https://www.freeformatter.com/html-formatter.html" title="Link to freeformatter" rel="nofollow">freeformatter</a>
     - Freeformatter was used to compressed my code to be more readable.
-- <a href="https://gauger.io/fonticon/" title="Link to fonticon" rel="nofollow" target="_blank">Fonticon</a>
+- <a href="https://gauger.io/fonticon/" title="Link to fonticon" rel="nofollow">Fonticon</a>
     - Fonticon was used to create a favicon.ico to the title.
 
 
 ## <u>Deployment</u>
 To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
 
-1. Log into <a href="https://github.com/login" title="Link to GitHub login" rel="nofollow" target="_blank">GitHub</a> or <a href="(https://github.com/join)" title="Link to GitHub join" rel="nofollow">Create an account</a>.
-2. Locate the <a href="https://github.com/JorgenBrattang/staying-healthy" title="Link to GitHub Repository" rel="nofollow" target="_blank">GitHub Repository</a>.
+1. Log into <a href="https://github.com/login" title="Link to GitHub login" rel="nofollow">GitHub</a> or <a href="(https://github.com/join)" title="Link to GitHub join" rel="nofollow">Create an account</a>.
+2. Locate the <a href="https://github.com/JorgenBrattang/staying-healthy" title="Link to GitHub Repository" rel="nofollow">GitHub Repository</a>.
 3. At the top of the repository, select Settings from the menu items.
 4. Scroll down the Settings page to the "Pages" section.
 5. Under "Source" click the drop-down menu labelled "None" and select "Main".
@@ -237,11 +237,11 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 
 ## <u>Content</u>
 The main content came from these different sites:
-- <a href="https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching" title="Link to Harvard Medical School" rel="nofollow" target="_blank">Harvard Medical School</a>
-- <a href="https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true" title="Link to Veritas Health" rel="nofollow" target="_blank">Veritas Health</a>
-- <a href="https://www.elevatenutrition.com/13-major-muscle-groups-body-functions/" title="Link to Elevate" rel="nofollow" target="_blank">Elevate</a>
-- The Logo in the header and the social icons in the footer were taken from <a href="https://fontawesome.com/" title="Link to Font Awesome" rel="nofollow" target="_blank">Font Awesome</a>
-- The fonts used were taken from <a href="https://fonts.google.com/" title="Link to Google Fonts" rel="nofollow" target="_blank">Google Fonts</a>
+- <a href="https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching" title="Link to Harvard Medical School" rel="nofollow">Harvard Medical School</a>
+- <a href="https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true" title="Link to Veritas Health" rel="nofollow">Veritas Health</a>
+- <a href="https://www.elevatenutrition.com/13-major-muscle-groups-body-functions/" title="Link to Elevate" rel="nofollow">Elevate</a>
+- The Logo in the header and the social icons in the footer were taken from <a href="https://fontawesome.com/" title="Link to Font Awesome" rel="nofollow">Font Awesome</a>
+- The fonts used were taken from <a href="https://fonts.google.com/" title="Link to Google Fonts" rel="nofollow">Google Fonts</a>
         
 ## <u>Media</u>
 
@@ -249,21 +249,21 @@ README:
 - <a href="https://amiresponsive.blogspot.com/" title="Link to Am I Responsive" rel="nofollow">Am I Responsive</a>
 
 Home Page:
-- <a href="https://unsplash.com/photos/We6cFKHo8sQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to Dex Ezekiel" rel="nofollow" target="_blank">Dex Ezekiel</a>
-- <a href="https://unsplash.com/photos/tpivPdQgC20?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to Anastasia Hisel" rel="nofollow" target="_blank">Anastasia Hisel</a>
-- <a href="https://unsplash.com/photos/O3AA1XfKofM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to LUNA ACTIVE FITNESS" rel="nofollow" target="_blank">LUNA ACTIVE FITNESS</a>
-- <a href="https://unsplash.com/photos/qa1wvrlWCio?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to Kari Shea" rel="nofollow" target="_blank">Kari Shea</a>
-- <a href="https://unsplash.com/photos/2aHSA17X17c?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to Julia Rekamie" rel="nofollow" target="_blank">Julia Rekamie</a>
+- <a href="https://unsplash.com/photos/We6cFKHo8sQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to Dex Ezekiel" rel="nofollow">Dex Ezekiel</a>
+- <a href="https://unsplash.com/photos/tpivPdQgC20?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to Anastasia Hisel" rel="nofollow">Anastasia Hisel</a>
+- <a href="https://unsplash.com/photos/O3AA1XfKofM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to LUNA ACTIVE FITNESS" rel="nofollow">LUNA ACTIVE FITNESS</a>
+- <a href="https://unsplash.com/photos/qa1wvrlWCio?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to Kari Shea" rel="nofollow">Kari Shea</a>
+- <a href="https://unsplash.com/photos/2aHSA17X17c?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" title="Link to Julia Rekamie" rel="nofollow">Julia Rekamie</a>
 
 Stretches:
-- <a href="https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true" title="Link to Veritas Health" rel="nofollow" target="_blank">Veritas Health</a>
+- <a href="https://www.spine-health.com/slideshow/slideshow-4-easy-stretches-neck-and-shoulder-pain?showall=true" title="Link to Veritas Health" rel="nofollow">Veritas Health</a>
 
 Anatomy:
-- <a href="https://www.youtube.com/watch?v=z7psWfRLXFY" title="Link to MooMooMath and Science" rel="nofollow" target="_blank">MooMooMath and Science</a>
+- <a href="https://www.youtube.com/watch?v=z7psWfRLXFY" title="Link to MooMooMath and Science" rel="nofollow">MooMooMath and Science</a>
 
 ## <u>Tutorial / used code</u>
-- <a href="https://www.w3schools.com/css/css_form.asp" title="Link to w3c school - CSS Forms" rel="nofollow" target="_blank">w3c school - CSS Forms</a>
-- <a href="https://google-map-generator.com/" title="Link to Google map generator" rel="nofollow" target="_blank">Google map generator</a>
+- <a href="https://www.w3schools.com/css/css_form.asp" title="Link to w3c school - CSS Forms" rel="nofollow">w3c school - CSS Forms</a>
+- <a href="https://google-map-generator.com/" title="Link to Google map generator" rel="nofollow">Google map generator</a>
 
 # Acknowledgements
-From my mentor <a href="https://github.com/seunkoko" title="Link to GitHub profile" rel="nofollow" target="_blank">Oluwaseun Owonikoko</a> advice and guidance, she shared her knowledge and gave me insight and ideas to get the most of my website. She also showed me another student README.md for this project, <a href="https://github.com/Irishbecky91/survival-guild" title="Link to Irishbecky91 repository" rel="nofollow" target="_blank">Irishbecky91</a> that I took inspiration from. Irishbecky91 had such good structure that gave my README an awesome baseline to use and continue to grow from for my future projects.
+From my mentor <a href="https://github.com/seunkoko" title="Link to GitHub profile" rel="nofollow">Oluwaseun Owonikoko</a> advice and guidance, she shared her knowledge and gave me insight and ideas to get the most of my website. She also showed me another student README.md for this project, <a href="https://github.com/Irishbecky91/survival-guild" title="Link to Irishbecky91 repository" rel="nofollow">Irishbecky91</a> that I took inspiration from. Irishbecky91 had such good structure that gave my README an awesome baseline to use and continue to grow from for my future projects.
