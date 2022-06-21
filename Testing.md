@@ -32,68 +32,41 @@ https://user-images.githubusercontent.com/104900271/174786587-9e944184-eb41-4a03
 <br>
 
 ## Features within the website
-- Favicon feature, works as intended. It shows a heart next to the title of the website
-<details><summary>Favicon feature video</summary>
+<strong>Favicon feature</strong>, works as intended. It shows a heart next to the title of the website
 
 https://user-images.githubusercontent.com/104900271/174786633-c2e63549-ad01-4e57-bcd1-68e2d1200662.mov
 
-</details>
-
-- Navigation bar feature, works as intended. When you press on each navigation link they move you to different site within the website, and gives you an hover effect plus an active feature when you are in "Anatomy" for example the name is highlighted.
-<details><summary>Images fading and hover feature video</summary>
+<strong>Navigation bar feature</strong>, works as intended. When you press on each navigation link they move you to different site within the website, and gives you an hover effect plus an active feature when you are in "Anatomy" for example the name is highlighted.
 
 https://user-images.githubusercontent.com/104900271/174786863-d86d2c2c-3079-4be5-98c7-5eeb05071675.mov
 
-</details>
-
-- Back to top button feature, works as intended. It gets you back to the top of the page, and when you hover over it it changes color.
-<details><summary>Back to top feature video</summary>
+<strong>Back to top button feature</strong>, works as intended. It gets you back to the top of the page, and when you hover over it it changes color.
 
 https://user-images.githubusercontent.com/104900271/174760759-38c74a64-377f-4cf0-bd9e-6e6d46469bce.mov
 
-</details>
-
-- Images fading and hover feature, works as intended. When entering the site the border of the images fade in and when hovering them they give a more clear color.
-<details><summary>Images fading and hover feature video</summary>
+<strong>Images fading and hover feature</strong>, works as intended. When entering the site the border of the images fade in and when hovering them they give a more clear color.
 
 https://user-images.githubusercontent.com/104900271/174786801-e9dacb2e-4c02-4337-b79c-cbf83c38c9a1.mov
 
-</details>
-
-- Read more feature, works as intended. When hovering it will change color and once you press on it will open a new tab where the full article is found.
-<details><summary>Read more feature video/summary>
+<strong>Read more feature</strong>, works as intended. When hovering it will change color and once you press on it will open a new tab where the full article is found.
 
 https://user-images.githubusercontent.com/104900271/174786903-f613cccf-eb54-41ee-98b7-f0d172ee2fdf.mov
 
-</details>
-
-- Video feature, works as intended. When entering the page the video will fade in and load, it will not play by it self nor with any audio. User has full control of the video.
-<details><summary>Video feature video</summary>
+<strong>Video feature</strong>, works as intended. When entering the page the video will fade in and load, it will not play by it self nor with any audio. User has full control of the video.
 
 https://user-images.githubusercontent.com/104900271/174786928-3fb3161a-4af0-4a95-b1d4-69c0f49d90c5.mov
 
-</details>
-
-- Google Map feature, works as intended. It shows you the location and its fully functional.
-<details><summary>Google map feature video</summary>
+<strong>Google Map feature</strong>, works as intended. It shows you the location and its fully functional.
 
 https://user-images.githubusercontent.com/104900271/174786760-d96c1bd5-63eb-4af5-9c4e-3862f70aa795.mov
-    
-</details>
 
-- Contact form feature, works as intended. It gives you clear instructions on what's needed to fill out the form, and when submitted it gives you an confirmation that the form has been submited.
-<details><summary>Contact form feature video</summary>
+<strong>Contact form feature</strong>, works as intended. It gives you clear instructions on what's needed to fill out the form, and when submitted it gives you an confirmation that the form has been submited.
 
 https://user-images.githubusercontent.com/104900271/174786740-c355a2fe-7ba9-4283-a0f4-2915dc02bc8c.mov
-
-</details>
     
- - Footer links feature, works as intended. When hovering the the links, they change color to give feedback that they are links and will open up a new tab when pressed upon.
-<details><summary>Footer links video</summary>
+<strong>Footer links feature</strong>, works as intended. When hovering the the links, they change color to give feedback that they are links and will open up a new tab when pressed upon.
 
 https://user-images.githubusercontent.com/104900271/174786656-13ea9281-9f24-4a05-9186-f7b5881e805a.mov
-
-</details>
 
 <br>
 
