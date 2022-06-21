@@ -4,7 +4,7 @@
 - <a href="https://jorgenbrattang.github.io/staying-healthy/" title="Link to live website" rel="nofollow">View live website here!</a>
 
 # Feature testing
-## <u>Video responsive test</u>
+## <u>Responsive test</u>
 Video shows free resizing and three screens iPhone SE, iPad Air and Nest Hub.
 - (It works with all other examples that the inspect feature displays, but would be a longer video for that).
 
